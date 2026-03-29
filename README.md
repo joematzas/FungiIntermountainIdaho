@@ -1,8 +1,10 @@
-# Data Archive
+# Fungi of Intermountain Idaho — DNA Sequences
 
-This repository hosts a collection of data files made available for public access.  
-For organized downloads, documentation, and additional context, please visit the project website:
+This repository provides access to ITS sequence data associated with the project:
 
+**Fungi of Intermountain Idaho**
+
+For organized access, documentation, and full context, please visit:
 https://idahofungi.com
 
-Users are encouraged to access the materials through the website interface for the best experience.
+Sequences are best accessed through the website interface, where taxonomy and supporting information are provided.
