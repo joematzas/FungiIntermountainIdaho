@@ -4,7 +4,7 @@ This repository provides access to ITS sequence data associated with the project
 
 **Fungi of Intermountain Idaho**
 
-For organized access, documentation, and full context, please visit:
+The main project website is currently in development and will provide organized access, documentation, and full context:
 https://idahofungi.com
 
-Sequences are best accessed through the website interface, where taxonomy and supporting information are provided.
+In the meantime, sequences are available here in FASTA format and are organized by genus.
