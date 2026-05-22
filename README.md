@@ -8,6 +8,7 @@ The main project website is currently in development and will provide organized 
 https://idahofungi.com
 
 Additional project documentation and species pages are available at
-Fungi of Intermountain Idaho
+
+[Fungi of Intermountain Idaho](https://www.idahofungi.com)
 
 In the meantime, sequences are available here in FASTA format and are organized by genus.
