@@ -14,15 +14,15 @@
     <rect
        x="222.28914"
        y="25.550476"
-       width="861.05103"
-       height="62.598663"
+       width="858.94447"
+       height="100.51688"
        id="rect526" />
   </defs>
   <polyline
      points="1048,2916 0,2916 0,0 1048,0 1048,2916"
      fill="#ffffff"
      id="polyline1"
-     transform="matrix(1.2681825,0,0,1.0963838,137.97257,122.64228)" />
+     transform="matrix(1.2681825,0,0,1.0963838,173.78422,156.34736)" />
   <text
      x="367.65631"
      y="181.42618"
@@ -7286,9 +7286,21 @@
   <text
      xml:space="preserve"
      id="text526"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect526);fill:#0000aa"
-     transform="translate(-19.162857,40.880761)"><tspan
-       x="222.28906"
-       y="54.45266"
-       id="tspan1">Entolomataceae       Phylogenetic Tree              August 2026</tspan></text>
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect526);fill:#800000"
+     transform="translate(107.2312,5.0691126)"
+     x="427.36566"
+     y="0"><tspan
+       x="484.99882"
+       y="59.269611"
+       id="tspan6"><tspan
+         style="font-size:37.3333px;fill:#a0892c"
+         id="tspan4">Entolomataceae </tspan><tspan
+         style="fill:#a0892c"
+         id="tspan5">      
+</tspan></tspan><tspan
+       x="459.04012"
+       y="101.11929"
+       id="tspan8"><tspan
+         style="font-style:normal;font-size:26.6667px;-inkscape-font-specification:Arial;fill:#a0892c"
+         id="tspan7">Phylogenetic Tree - August 2026</tspan></tspan></text>
 </svg>
