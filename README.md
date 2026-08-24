@@ -15,4 +15,4 @@ For the broader project context, species information, observational records, and
 
 [Fungi of Intermountain Idaho](https://www.idahofungi.com)
 
-The repository also contains phylogenetic trees and other supporting project materials.
+The repository also contains ITS sequence files in FASTA format, organized by genus, as well as phylogenetic trees and other supporting project materials.
