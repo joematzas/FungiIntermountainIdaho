@@ -4,11 +4,15 @@ This repository provides access to ITS sequence data associated with the project
 
 **Fungi of Intermountain Idaho**
 
-The main project website is currently in development and will provide organized access, documentation, and full context:
+The project documents and explores the fungal diversity of Intermountain Idaho through historical collections, field observations, species concepts, photographs, and DNA-informed research.
+
+
+The main project website provides the organized project documentation, interactive reports, species information, and supporting resources:
 https://idahofungi.com
 
-Additional project documentation and species pages are available at
+
+For the broader project context, species information, observational records, and interactive reports, visit:
 
 [Fungi of Intermountain Idaho](https://www.idahofungi.com)
 
-In the meantime, sequences are available here in FASTA format and are organized by genus.
+The repository also contains phylogenetic trees and other supporting project materials.
