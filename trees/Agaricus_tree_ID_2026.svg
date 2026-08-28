@@ -2,14 +2,45 @@
 <svg
    version="1.1"
    width="1700"
-   height="1200"
-   viewBox="0 0 1700.0002 1200"
+   height="1300"
+   viewBox="0 0 1700.0002 1300"
    id="svg93"
+   sodipodi:docname="Agaricus_tree_ID_2026.svg"
+   inkscape:export-filename="Agaricus_tree_ID_2026.jpg"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.6725"
+     inkscape:cx="851.30112"
+     inkscape:cy="481.04089"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg93" />
   <defs
      id="defs93">
+    <rect
+       x="1400.7435"
+       y="231.97026"
+       width="127.88104"
+       height="29.739777"
+       id="rect4" />
     <rect
        x="358.54782"
        y="17.349089"
@@ -19,10 +50,16 @@
     <color-profile
        name="Agfa-:-Swop-Standard"
        xlink:href="../../../../../../../WINDOWS/system32/spool/drivers/color/RSWOP.icm"
-       id="color-profile2" />
+       id="color-profile1" />
+    <rect
+       x="125.40273"
+       y="2183.6431"
+       width="1602.9062"
+       height="62.03989"
+       id="rect20" />
   </defs>
   <g
-     transform="matrix(0.91359671,0,0,0.90855263,201.80824,161.19706)"
+     transform="matrix(0.91359671,0,0,0.90855263,137.86772,242.98145)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -3124,7 +3161,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal;fill:#4d4d4d"
-     transform="matrix(1,0,0,1.7058816,11.96262,23.057406)">
+     transform="matrix(1,0,0,1.7058816,-13.31619,98.893837)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -3142,7 +3179,7 @@
        style="mix-blend-mode:normal;fill:#4d4d4d"
        id="g93">
       <text
-         x="70"
+         x="62.565056"
          y="62"
          fill="#505050"
          fill-rule="nonzero"
@@ -3157,7 +3194,7 @@
          font-weight="bold"
          font-size="12px"
          text-anchor="start"
-         style="mix-blend-mode:normal;fill:#4d4d4d"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2711px;font-family:Arial;-inkscape-font-specification:Arial;mix-blend-mode:normal;fill:#4d4d4d"
          id="text92">Tree scale: 0.1</text>
       <path
          d="M 162.06055,58.4 H 443.10466"
@@ -3199,25 +3236,44 @@
      xml:space="preserve"
      id="text2"
      style="font-style:italic;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#786721"
-     transform="translate(315.36044,6.4994789)"
+     transform="translate(315.36044,16.908401)"
      x="202.19763"
      y="0"><tspan
        x="494.0498"
        y="46.251488"
-       id="tspan2">Agaricus 
+       id="tspan7">Agaricus 
 </tspan><tspan
        x="368.7592"
        y="86.251488"
-       id="tspan4"><tspan
+       id="tspan9"><tspan
          style="font-style:normal;font-size:26.6667px;-inkscape-font-specification:Arial"
-         id="tspan3">Phylogenetic Tree  August, 2026</tspan></tspan></text>
+         id="tspan8">Phylogenetic Tree  August, 2026</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;fill:#4d4d4d"
      x="532.34198"
      y="59.479553"
      id="text6"><tspan
+       sodipodi:role="line"
        id="tspan6"
        x="532.34198"
        y="59.479553">   </tspan></text>
+  <text
+     xml:space="preserve"
+     id="text20"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     x="1.5136719e-05"
+     y="0"
+     transform="translate(10.294936,-2062.0609)"><tspan
+       x="125.40234"
+       y="2200.502"
+       id="tspan10">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Agaricus, not to provide a formal taxonomy.</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text4"
+     style="font-stretch:condensed;font-size:21.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Condensed';white-space:pre;shape-inside:url(#rect4);fill:#2d5016"
+     transform="translate(-4.4609665,-1.4869888)"><tspan
+       x="1400.7441"
+       y="251.18677"
+       id="tspan11">-- Outgroup</tspan></text>
 </svg>

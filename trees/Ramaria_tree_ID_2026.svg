@@ -2,8 +2,8 @@
 <svg
    version="1.1"
    width="1700"
-   height="1700"
-   viewBox="0 0 1700 1700"
+   height="1800"
+   viewBox="0 0 1700 1800"
    id="svg183"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
@@ -39,9 +39,15 @@
        width="301.26889"
        height="81.546471"
        id="rect180-0-5" />
+    <rect
+       x="125.40273"
+       y="2183.6431"
+       width="1602.9062"
+       height="62.03989"
+       id="rect20" />
   </defs>
   <g
-     transform="matrix(0.92645995,0,0,0.96946016,37.555153,218.49469)"
+     transform="matrix(0.92645995,0,0,0.96946016,43.874856,247.98664)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -6008,7 +6014,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="matrix(1,0,0,1.2593296,-27.262367,81.57677)">
+     transform="matrix(1,0,0,1.2593296,-27.262367,138.45409)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -6081,70 +6087,82 @@
   </g>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2.01357;stroke-opacity:1"
-     d="m 1384.6895,1658.64 c 0,-976.95126 2.2626,-988.44479 2.2626,-988.44479"
+     d="m 1391.0092,1688.1319 c 0,-976.95121 2.2626,-988.44474 2.2626,-988.44474"
      id="path150" />
   <text
      xml:space="preserve"
      id="text180"
-     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect180);fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-63.894251,52.099132)"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect180);fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(-57.574548,81.591078)"><tspan
        x="1467.8359"
-       y="1127.1627"
-       id="tspan3">subg. Laeticolor</tspan></text>
+       y="1127.2275"
+       id="tspan12">subg. Laeticolor</tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:1.97584;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1386.9814,660.879 c -0.8149,-337.81822 0,-335.66672 0,-335.66672"
+     d="m 1393.3011,690.37095 c -0.8149,-337.81822 0,-335.66672 0,-335.66672"
      id="path180" />
   <text
      xml:space="preserve"
      id="text180-4"
-     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect180-0);fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-63.894251,-625.33937)"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect180-0);fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(-57.574548,-595.84742)"><tspan
        x="1467.8359"
-       y="1127.1627"
-       id="tspan4">subg. Ramaria</tspan></text>
+       y="1127.2275"
+       id="tspan13">subg. Ramaria</tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:1.79183;stroke-opacity:1"
-     d="M 1386.1859,313.53307 V 274.44204"
+     d="M 1392.5056,343.02502 V 303.93399"
      id="path181" />
   <text
      xml:space="preserve"
      id="text180-4-2"
-     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect180-0-8);fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-63.894251,-826.72215)"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect180-0-8);fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(-57.574548,-797.2302)"><tspan
        x="1467.8359"
-       y="1127.1627"
-       id="tspan5">subg. Lentoramaria</tspan></text>
+       y="1127.2275"
+       id="tspan14">subg. Lentoramaria</tspan></text>
   <text
      xml:space="preserve"
      id="text181"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect181);fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-opacity:1"
      x="207.83023"
      y="0"
-     transform="translate(54.364312,37.375465)"><tspan
+     transform="translate(111.24164,22.629492)"><tspan
        x="633.48301"
        y="70.248758"
-       id="tspan7"><tspan
+       id="tspan16"><tspan
    style="font-style:italic;font-size:42.6667px;-inkscape-font-specification:'Arial Italic';stroke:none"
-   id="tspan6">Ramaria</tspan>
+   id="tspan15">Ramaria</tspan>
 </tspan><tspan
        x="517.67163"
        y="109.06641"
-       id="tspan9"><tspan
+       id="tspan18"><tspan
          style="stroke:none"
-         id="tspan8">Phylogenetic tree - August, 2026.</tspan></tspan></text>
+         id="tspan17">Phylogenetic tree - August, 2026.</tspan></tspan></text>
   <path
      style="fill:#225500;stroke:#225500;stroke-width:1.79183;stroke-opacity:1"
-     d="M 1386.1859,265.51947 V 226.42844"
+     d="M 1392.5056,295.01142 V 255.92039"
      id="path181-5" />
   <text
      xml:space="preserve"
      id="text180-4-7"
-     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect180-0-5);fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-64.363002,-871.67588)"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect180-0-5);fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(-58.043299,-842.18393)"><tspan
        x="1467.8359"
-       y="1127.1627"
-       id="tspan11"><tspan
+       y="1127.2275"
+       id="tspan20"><tspan
          style="fill:#225500"
-         id="tspan10">Outgroup</tspan></tspan></text>
+         id="tspan19">Outgroup</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text20"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     x="1.5136719e-05"
+     y="0"
+     transform="translate(-0.56132076,-2028.9369)"><tspan
+       x="125.40234"
+       y="2200.502"
+       id="tspan22"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010204315 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001039505"
+         id="tspan21">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Ramaria, not to provide a formal taxonomy.</tspan></tspan></text>
 </svg>

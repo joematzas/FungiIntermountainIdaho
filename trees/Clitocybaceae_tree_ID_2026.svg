@@ -2,8 +2,8 @@
 <svg
    version="1.1"
    width="1700"
-   height="1500"
-   viewBox="0 0 1700.0001 1500"
+   height="1600"
+   viewBox="0 0 1700.0001 1600"
    id="svg168"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
@@ -27,9 +27,15 @@
        width="165.10435"
        height="33.694767"
        id="rect6" />
+    <rect
+       x="125.40273"
+       y="2183.6431"
+       width="1602.9062"
+       height="62.03989"
+       id="rect20" />
   </defs>
   <g
-     transform="matrix(0.9282146,0,0,0.95601177,39.747698,176.87354)"
+     transform="matrix(0.9282146,0,0,0.95601177,46.319322,226.81788)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -5463,66 +5469,68 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:485.434;display:inline;fill:#a0892c;stroke:none"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:485.434;display:inline;fill:#a0892c;stroke:none"
      x="758.51782"
      y="76.730797"
      id="text4"
-     transform="translate(95.945716,7.8859492)"><tspan
+     transform="translate(98.574366)"><tspan
        x="758.51782"
        y="76.730797"
-       id="tspan9"><tspan
-         style="font-family:Arial;-inkscape-font-specification:'Arial Italic'"
-         id="tspan6">Clitocybaceae</tspan><tspan
-         style="font-weight:bold;-inkscape-font-specification:'Calibri Bold Italic'"
-         id="tspan7"> </tspan><tspan
-         style="font-style:normal;font-weight:bold;font-size:37.3333px;-inkscape-font-specification:'Calibri Bold';stroke:#a0892c"
-         id="tspan8">
+       id="tspan2">Clitocybaceae <tspan
+   style="font-size:37.3333px;stroke:#a0892c"
+   id="tspan1">
 </tspan></tspan><tspan
        x="758.51782"
-       y="118.73079"
-       id="tspan11"><tspan
-         style="font-style:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan10">Phylogenetic tree - August 2026</tspan></tspan></text>
+       y="118.58047"
+       id="tspan7"><tspan
+         style="font-size:26.6667px"
+         id="tspan6">Phylogenetic tree - August 2026</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text6"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#a0892c;stroke:none"
-     transform="translate(1156.7069,3.1652496)"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#2d5016;stroke:none"
+     transform="translate(1144.9114,53.109595)"><tspan
        x="345.37109"
-       y="202.60218"
-       id="tspan13"><tspan
-         style="font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan12">Outgroup</tspan></tspan></text>
+       y="202.66696"
+       id="tspan8">Outgroup</tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none"
-     d="M 1462.4839,746.43631 V 1416.5682"
+     d="M 1469.0555,796.38065 V 1466.5125"
      id="path138" />
   <path
      style="mix-blend-mode:color;fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1462.4899,725.48798 V 228.75747"
+     d="M 1469.0615,775.43232 V 278.70181"
      id="path139" />
   <text
      xml:space="preserve"
      id="text165"
-     style="font-size:26.6667px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect165);display:inline;fill:#a0892c;fill-opacity:0.890196;stroke:none"
-     transform="translate(107.84281,24.509729)"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect165);display:inline;fill:#a0892c;fill-opacity:0.890196;stroke:none"
+     transform="translate(96.456388,74.454074)"><tspan
        x="1393.7871"
-       y="463.56116"
-       id="tspan15"><tspan
-         style="font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan14">Clitocybe</tspan></tspan></text>
+       y="463.62595"
+       id="tspan9">Clitocybe</tspan></text>
   <text
      xml:space="preserve"
      id="text166"
-     style="font-size:26.6667px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect166);display:inline;fill:#a0892c;fill-opacity:0.890196;stroke:none"
-     transform="translate(101.30688,183.00597)"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect166);display:inline;fill:#a0892c;fill-opacity:0.890196;stroke:none"
+     transform="translate(91.555997,232.95031)"><tspan
        x="1398.6875"
-       y="966.82679"
-       id="tspan17"><tspan
-         style="font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan16">Collybia</tspan></tspan></text>
+       y="966.89157"
+       id="tspan10">Collybia</tspan></text>
   <path
-     style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:2.2506;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1462.9539,169.60468 v 50.19584"
+     style="fill:#a0892c;fill-opacity:1;stroke:#2d5016;stroke-width:2.2506;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1469.5255,219.54902 v 50.19584"
      id="path137" />
+  <text
+     xml:space="preserve"
+     id="text20"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     x="1.5136719e-05"
+     y="0"
+     transform="translate(-39.844235,-2036.4268)"><tspan
+       x="125.40234"
+       y="2200.502"
+       id="tspan12"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010204315"
+         id="tspan11">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Clitocybaceae, not to provide a formal taxonomy.</tspan></tspan></text>
 </svg>

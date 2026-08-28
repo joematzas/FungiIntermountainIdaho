@@ -8,9 +8,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs100" />
+     id="defs100">
+    <rect
+       x="125.40273"
+       y="2183.6431"
+       width="1602.9062"
+       height="62.03989"
+       id="rect20" />
+  </defs>
   <g
-     transform="matrix(0.96273786,0,0,1.1109676,84.622079,223.1704)"
+     transform="matrix(0.96273786,0,0,1.1109676,65.695801,246.30252)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -1970,7 +1977,9 @@
            xml:space="preserve"><tspan
              x="142.43663"
              y="6"
-             id="tspan4">Pluteus fulvibadius iNat182842325 Idaho - Outgroup</tspan></text>
+             id="tspan6">Pluteus fulvibadius iNat182842325 Idaho<tspan
+   style="fill:#225500"
+   id="tspan5"> - Outgroup</tspan></tspan></text>
         <path
            d="M 137.43663,0 H 68.71831"
            fill="none"
@@ -3374,7 +3383,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal;fill:#4d4d4d"
-     transform="matrix(1,0,0,1.7304232,16.235279,75.819673)">
+     transform="matrix(1,0,0,1.7304232,-6.8968392,111.56931)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -3392,7 +3401,7 @@
        style="mix-blend-mode:normal;fill:#4d4d4d"
        id="g100">
       <text
-         x="70"
+         x="67.897079"
          y="62"
          fill="#505050"
          fill-rule="nonzero"
@@ -3407,7 +3416,7 @@
          font-weight="bold"
          font-size="12px"
          text-anchor="start"
-         style="mix-blend-mode:normal;fill:#4d4d4d"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.1767px;font-family:Arial;-inkscape-font-specification:Arial;mix-blend-mode:normal;fill:#4d4d4d"
          id="text99">Tree scale: 0.1</text>
       <path
          d="m 162.06055,58.4 h 96.32208"
@@ -3447,27 +3456,39 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:852.378;display:inline;fill:#786721;stroke:#805300"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:852.378;display:inline;fill:#a0892c;stroke:#805300"
      x="1030.0389"
      y="57.66206"
      id="text6"
-     transform="translate(-153.7655,8.0086194)"><tspan
+     transform="translate(-134.83922,-15.123498)"><tspan
        x="1030.0389"
        y="57.66206"
-       id="tspan7">
+       id="tspan9">
 </tspan><tspan
        x="1030.0389"
        y="107.00336"
-       id="tspan10"><tspan
-         style="font-style:italic;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke:none"
-         id="tspan8">Amanitacea</tspan><tspan
-         style="font-style:italic;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
-         id="tspan9">
+       id="tspan15"><tspan
+         style="font-style:italic;font-stretch:condensed;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';stroke:none"
+         id="tspan13">Amanitacea</tspan><tspan
+         style="font-style:italic;font-stretch:condensed;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed'"
+         id="tspan14">
 </tspan></tspan><tspan
        x="1030.0389"
        y="150.99544"
-       id="tspan12"><tspan
-   style="font-family:Arial;-inkscape-font-specification:Arial;stroke:none"
-   id="tspan11">Phylogenetic Tree - August, 2026.</tspan>
+       id="tspan17"><tspan
+   style="font-style:italic;font-stretch:condensed;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';stroke:none"
+   id="tspan16">Phylogenetic Tree - August, 2026.</tspan>
 </tspan></text>
+  <text
+     xml:space="preserve"
+     id="text20"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     x="1.5136719e-05"
+     y="0"
+     transform="translate(-18.83722,-2027.7647)"><tspan
+       x="125.40234"
+       y="2200.502"
+       id="tspan19"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001039505"
+         id="tspan18">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Amanitaceae, not to provide a formal taxonomy.</tspan></tspan></text>
 </svg>

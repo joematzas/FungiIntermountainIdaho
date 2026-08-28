@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1700"
-   height="3000"
-   viewBox="0 0 1700.0001 3000"
+   width="1800"
+   height="3200"
+   viewBox="0 0 1800.0001 3200"
    id="svg462"
-   sodipodi:docname="Boletales_tree_ID_2026_2.svg"
-   inkscape:export-filename="Boletales_tree_ID_2026.svg"
-   inkscape:export-xdpi="400"
-   inkscape:export-ydpi="400"
+   sodipodi:docname="Boletales_tree_ID_2026.svg"
+   inkscape:export-filename="Boletales_tree_ID_2026.jpg"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -18,28 +18,34 @@
      id="defs462">
     <rect
        x="1236.5168"
-       y="182.16543"
-       width="149.04444"
-       height="41.094558"
+       y="182.16544"
+       width="149.04443"
+       height="41.094559"
        id="rect6" />
     <rect
        x="1236.5168"
-       y="180.32537"
+       y="180.32536"
        width="122.05697"
-       height="34.34769"
+       height="34.347691"
        id="rect4" />
     <rect
        x="1231.61"
        y="181.55208"
-       width="188.9123"
-       height="39.254503"
+       width="188.91229"
+       height="39.254501"
        id="rect463" />
     <rect
-       x="370.46437"
+       x="370.46436"
        y="26.987471"
        width="983.81598"
        height="111.62999"
        id="rect2" />
+    <rect
+       x="125.40273"
+       y="2183.6431"
+       width="1602.9062"
+       height="62.03989"
+       id="rect20" />
   </defs>
   <sodipodi:namedview
      id="namedview462"
@@ -50,20 +56,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.1528571"
-     inkscape:cx="1062.1437"
-     inkscape:cy="735.13011"
+     inkscape:zoom="0.81519307"
+     inkscape:cx="817.59772"
+     inkscape:cy="539.13608"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg462">
     <inkscape:page
        x="0"
        y="0"
-       width="1700.0001"
-       height="3000"
+       width="1800.0001"
+       height="3200"
        id="page2"
        margin="0"
        bleed="0" />
@@ -84,7 +90,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal;fill:#4d4d4d"
-     transform="matrix(1.0791426,0,0,1.0518766,24.831437,82.389122)">
+     transform="matrix(1.0791426,0,0,1.0518766,22.37803,124.09703)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -102,7 +108,7 @@
        style="mix-blend-mode:normal;fill:#4d4d4d"
        id="g462">
       <text
-         x="70"
+         x="50.708904"
          y="62"
          fill="#505050"
          fill-rule="nonzero"
@@ -117,7 +123,7 @@
          font-weight="bold"
          font-size="12px"
          text-anchor="start"
-         style="mix-blend-mode:normal;fill:#4d4d4d"
+         style="font-size:15.0175px;mix-blend-mode:normal;fill:#4d4d4d;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="text461">Tree scale: 0.1</text>
       <path
          d="M 162.06055,58.4 H 276.94018"
@@ -164,17 +170,17 @@
      y="0"><tspan
        x="775.95124"
        y="60.707111"
-       id="tspan11"><tspan
+       id="tspan13"><tspan
    style="font-size:37.3333px"
-   id="tspan5">Boletales </tspan> 
+   id="tspan12">Boletales </tspan> 
 </tspan><tspan
        x="662.97826"
        y="102.55679"
        id="tspan15"><tspan
          style="font-style:normal;font-size:26.6667px;-inkscape-font-specification:Arial"
-         id="tspan13">Phylogenetic Tree   August, 2026.</tspan></tspan></text>
+         id="tspan14">Phylogenetic Tree   August, 2026.</tspan></tspan></text>
   <g
-     transform="matrix(0.75207607,0,0,0.74078412,73.614694,183.45393)"
+     transform="matrix(0.80811966,0,0,0.79598625,30.990793,210.27231)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -14782,8 +14788,8 @@
        id="g461" />
   </g>
   <path
-     style="fill:#786721;fill-opacity:0;stroke:#786721;stroke-width:2.16099;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1223.4385,173.3768 c 0,38.48175 0,38.48175 0,38.48175"
+     style="fill:#786721;fill-opacity:0;stroke:#225500;stroke-width:2.16099;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1295.814,204.04438 c 0,38.48175 0,38.48175 0,38.48175"
      id="path463" />
   <text
      xml:space="preserve"
@@ -14792,11 +14798,19 @@
   <text
      xml:space="preserve"
      id="text6"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect6);display:inline"
-     transform="translate(5.5201645,-2.4534065)"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';white-space:pre;shape-inside:url(#rect6);display:inline;fill:#225500"
+     transform="translate(77.895657,28.214175)"><tspan
        x="1236.5176"
-       y="203.78412"
-       id="tspan19"><tspan
-         style="fill:#786721"
-         id="tspan18">Outgroup</tspan></tspan></text>
+       y="203.84242"
+       id="tspan18">Outgroup</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text20"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     x="1.5136719e-05"
+     y="0"
+     transform="translate(58.919409,-2050.6326)"><tspan
+       x="125.40234"
+       y="2200.502"
+       id="tspan19">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Boletales, not to provide a formal taxonomy.</tspan></text>
 </svg>

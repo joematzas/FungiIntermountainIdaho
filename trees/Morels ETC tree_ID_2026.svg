@@ -5,12 +5,50 @@
    height="1800"
    viewBox="0 0 1600 1800"
    id="svg173"
+   sodipodi:docname="Morels ETC tree_ID_2026.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="Morels ETC tree_ID_2026.jpg"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.89666666"
+     inkscape:cx="838.1041"
+     inkscape:cy="1179.368"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg173" />
   <defs
-     id="defs173" />
+     id="defs173">
+    <rect
+       x="24.535316"
+       y="198.51301"
+       width="1503.3457"
+       height="1510.0372"
+       id="rect2" />
+    <rect
+       x="125.40273"
+       y="2183.6431"
+       width="1602.9062"
+       height="62.03989"
+       id="rect20" />
+  </defs>
   <g
-     transform="matrix(0.95461868,0,0,1.0208922,44.117319,245.16734)"
+     transform="matrix(0.95461868,0,0,1.0208922,53.039252,289.77701)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -5615,7 +5653,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal;fill:#4d4d4d"
-     transform="matrix(1.1894967,0,0,2.2582522,1.4396433,61.154193)">
+     transform="matrix(1.1894967,0,0,2.2582522,-19.749948,120.262)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -5648,9 +5686,9 @@
          font-weight="bold"
          font-size="12px"
          text-anchor="start"
-         style="font-size:12.2029px;mix-blend-mode:normal;fill:#4d4d4d"
+         style="font-size:11.38934977px;mix-blend-mode:normal;fill:#4d4d4d"
          id="text172"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2029px;font-family:Arial;-inkscape-font-specification:Arial"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;font-size:11.38934977px"
            id="tspan5">Tree scale: 1</tspan></text>
       <path
          d="M 152.05273,58.4 H 427.43967"
@@ -5694,29 +5732,44 @@
      x="734.19452"
      y="91.126526"
      id="text4"
-     transform="translate(121.83928,26.908839)"><tspan
+     transform="translate(85.036306,11.295456)"><tspan
        x="734.19452"
        y="91.126526"
-       id="tspan8"><tspan
+       id="tspan3"><tspan
          style="font-size:37.3333px;fill:#a0892c"
-         id="tspan6">Morels and related genera </tspan><tspan
+         id="tspan1">Morels and related genera </tspan><tspan
          style="fill:#a0892c"
-         id="tspan7"> 
+         id="tspan2"> 
 </tspan></tspan><tspan
        x="734.19452"
        y="132.9762"
-       id="tspan10"><tspan
+       id="tspan7"><tspan
          style="font-style:normal;font-size:26.6667px;-inkscape-font-specification:Arial;fill:#a0892c"
-         id="tspan9">Phylogenetic tree - August, 2026.</tspan></tspan></text>
+         id="tspan6">Phylogenetic tree - August, 2026.</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:117.131;display:inline;fill:#c8ab37"
      x="804.52795"
      y="250.79407"
-     id="text6"><tspan
+     id="text6"
+     transform="translate(22.304833,44.609666)"><tspan
        x="804.52795"
        y="250.79407"
-       id="tspan12"><tspan
+       id="tspan9"><tspan
          style="fill:#a0892c"
-         id="tspan11">- Outgroup</tspan></tspan></text>
+         id="tspan8">- Outgroup</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text20"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:16px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     x="1.5136719e-05"
+     y="0"
+     transform="translate(24.592338,-2017.3323)"><tspan
+       x="125.40234"
+       y="2198.0935"
+       id="tspan10">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Morchella and related genera, not to provide a formal taxonomy.</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:13.8208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Condensed';white-space:pre;shape-inside:url(#rect2);display:inline" />
 </svg>

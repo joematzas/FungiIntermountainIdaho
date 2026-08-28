@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1700"
+   width="1650"
    height="1200"
-   viewBox="0 0 1700 1200"
+   viewBox="0 0 1650 1200"
    id="svg95"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs95" />
+     id="defs95">
+    <rect
+       x="125.40273"
+       y="2183.6431"
+       width="1602.9062"
+       height="62.03989"
+       id="rect20" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="200.46841"
+       height="43.038414"
+       id="rect287-1-6-2-9-3-5" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="200.46841"
+       height="43.038414"
+       id="rect287-1-6-2-9-23-6" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="200.46841"
+       height="43.038414"
+       id="rect287-1-6-2-9-23-6-2" />
+  </defs>
   <g
-     transform="matrix(1.0220607,0,0,1.2664294,74.022776,186.94639)"
+     transform="matrix(0.8685167,0,0,1.2541488,68.391338,239.16038)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -2816,7 +2841,7 @@
          font-weight=""
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';mix-blend-mode:normal"
          id="text78">100</text>
       <text
          x="576.27148"
@@ -2852,7 +2877,7 @@
          font-weight=""
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';mix-blend-mode:normal"
          id="text80">92</text>
       <text
          x="708.49744"
@@ -3198,7 +3223,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="matrix(1.4657193,0,0,1.8161641,-34.45547,23.709648)">
+     transform="matrix(1.2455246,0,0,1.7985527,-17.383344,101.53241)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -3231,7 +3256,7 @@
          font-weight="bold"
          font-size="12px"
          text-anchor="start"
-         style="mix-blend-mode:normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.4718px;font-family:Arial;-inkscape-font-specification:Arial;mix-blend-mode:normal"
          id="text94">Tree scale: 0.1</text>
       <path
          d="m 162.06055,58.4 h 64.62519"
@@ -3271,18 +3296,72 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:italic;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';writing-mode:lr-tb;direction:ltr;fill:#786721"
-     x="656.70679"
-     y="94.501709"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;fill:#a0892c"
+     x="634.28259"
+     y="68.874138"
      id="text96"><tspan
        id="tspan96"
-       x="656.70679"
-       y="94.501709"><tspan
-   style="font-size:37.3333px"
+       x="634.28259"
+       y="68.874138"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';fill:#a0892c"
    id="tspan2">Hydnellum and Sarcodon</tspan>   </tspan><tspan
-       x="656.70679"
-       y="136.35138"
+       x="634.28259"
+       y="110.72382"
        id="tspan3">  <tspan
-   style="font-size:24px"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';fill:#a0892c"
    id="tspan1">Phylogenetic tree   August , 2026</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text20"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     x="1.5136719e-05"
+     y="0"
+     transform="translate(-41.177996,-2053.1156)"><tspan
+       x="125.40234"
+       y="2200.502"
+       id="tspan5"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010824203"
+         id="tspan4">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Bolitopsidaceae, not to provide a formal taxonomy.</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#2d5016;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1371,216.96552 v 37.50342"
+     id="path287-4-3" />
+  <text
+     xml:space="preserve"
+     id="text287-5-4-6-5-1"
+     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3-5);display:inline;fill:#2d5016;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(-48.708336,-1838.8693)"><tspan
+       x="1466.7031"
+       y="2071.8076"
+       id="tspan7"><tspan
+         style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
+         id="tspan6">Outgroup</tspan></tspan></text>
+  <path
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1371,573.51033 V 1157.6272"
+     id="path287-9-5-4-1" />
+  <text
+     xml:space="preserve"
+     id="text287-5-4-6-31-2"
+     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-23-6);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(-47.614584,-1212.7108)"><tspan
+       x="1466.7031"
+       y="2071.8076"
+       id="tspan9"><tspan
+         style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
+         id="tspan8">Hydnellum</tspan></tspan></text>
+  <path
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1371,259.18621 V 556.5945"
+     id="path287-9-5-4-1-3" />
+  <text
+     xml:space="preserve"
+     id="text287-5-4-6-31-2-1"
+     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-23-6-2);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(-48.152606,-1648.719)"><tspan
+       x="1466.7031"
+       y="2071.8076"
+       id="tspan11"><tspan
+         style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
+         id="tspan10">Sarcodon</tspan></tspan></text>
 </svg>
