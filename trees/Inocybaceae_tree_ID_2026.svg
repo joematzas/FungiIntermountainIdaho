@@ -5,6 +5,13 @@
    height="4100"
    viewBox="0 0 1800 4100"
    id="svg532"
+   sodipodi:docname="Inocybaceae_tree_ID_2026.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="Inocybaceae_tree_ID_2026.jpg"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -44,8 +51,38 @@
        y="2047.7224"
        width="200.46841"
        height="43.038414"
+       id="rect287-1-6-2-5-8-6-8-7-2-2-9-7" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="200.46841"
+       height="43.038414"
        id="rect287-1-6-2-5-8-6-8-7-2-2-9-5" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="200.46841"
+       height="43.038414"
+       id="rect287-1-6-2-5-8-6-8-7-2-2-9-4" />
   </defs>
+  <sodipodi:namedview
+     id="namedview532"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.22073304"
+     inkscape:cx="1293.4176"
+     inkscape:cy="1832.5303"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg532" />
   <g
      transform="matrix(0.9088216,0,0,0.9088216,63.411409,237.67927)"
      id="mainHolder"
@@ -16726,6 +16763,23 @@
          id="path532" />
     </g>
   </g>
+  <g
+     id="legendHolder"
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     font-family="sans-serif"
+     font-weight="normal"
+     font-size="12px"
+     text-anchor="start"
+     style="mix-blend-mode:normal"
+     transform="translate(-70.257812,-53.375)" />
   <text
      xml:space="preserve"
      id="text2"
@@ -16735,15 +16789,15 @@
      transform="translate(-122.06713,13.832)"><tspan
        x="850.73496"
        y="55.885477"
-       id="tspan6"><tspan
+       id="tspan4"><tspan
    style="font-size:42.6667px;fill:#a0892c;stroke:none"
-   id="tspan5">Inocybacea</tspan>
+   id="tspan3">Inocybacea</tspan>
 </tspan><tspan
        x="759.82052"
        y="97.176342"
-       id="tspan8"><tspan
+       id="tspan20"><tspan
          style="fill:#a0892c;stroke:none"
-         id="tspan7">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
+         id="tspan19">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text20"
@@ -16753,9 +16807,9 @@
      transform="translate(-9.5722492,-2048.3393)"><tspan
        x="125.40234"
        y="2200.502"
-       id="tspan10"><tspan
+       id="tspan22"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010824203 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001039505"
-         id="tspan9">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Inocybaceae, not to provide a formal taxonomy.</tspan></tspan></text>
+         id="tspan21">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Inocybaceae, not to provide a formal taxonomy.</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
      d="m 1561,225.48688 v 52.01074"
@@ -16767,9 +16821,9 @@
      transform="translate(131.29166,-1810.3935)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan12"><tspan
+       id="tspan24"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan11">Outgroup</tspan></tspan></text>
+         id="tspan23">Outgroup</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
      d="M 1561,286.19559 V 699.86254"
@@ -16778,26 +16832,26 @@
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(132.33333,-1590.0341)"><tspan
+     transform="translate(132.33333,-1582.719)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan14"><tspan
+       id="tspan26"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan13">Mallocybe</tspan></tspan></text>
+         id="tspan25">Mallocybe</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1561,955.87062 V 4012.382"
+     d="M 1561,1017.0305 V 4012.382"
      id="path286-2-2-8-6-8" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-4"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(132.04687,441.20725)"><tspan
+     transform="translate(132.04687,447.28098)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan16"><tspan
+       id="tspan28"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan15">Inocybe</tspan></tspan></text>
+         id="tspan27">Inocybe</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
      d="M 1561,716.00862 V 929.46011"
@@ -16806,10 +16860,24 @@
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-0"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-5);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(132.34635,-1254.7228)"><tspan
+     transform="translate(132.34635,-1252.719)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan18"><tspan
+       id="tspan30"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan17">Pseudosperma</tspan></tspan></text>
+         id="tspan29">Pseudosperma</tspan></tspan></text>
+  <path
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1561,935.50806 v 75.27554"
+     id="path286-2-2-8-6-84-9" />
+  <text
+     xml:space="preserve"
+     id="text287-5-4-6-3-4-2-6-1-6-5-1-8"
+     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-4);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(132.04687,-1092.719)"><tspan
+       x="1466.7031"
+       y="2071.8076"
+       id="tspan32"><tspan
+         style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
+         id="tspan31">Inosperma</tspan></tspan></text>
 </svg>
