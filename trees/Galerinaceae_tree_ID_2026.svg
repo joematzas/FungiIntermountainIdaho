@@ -1,60 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1600"
-   height="1350"
-   viewBox="0 0 1600 1350"
-   id="svg126"
-   sodipodi:docname="Galerina_tree_ID_2026.svg"
-   inkscape:export-filename="Galerina_tree_ID_2026.jpg"
-   inkscape:export-xdpi="500"
-   inkscape:export-ydpi="500"
-   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   width="1700"
+   height="1450"
+   viewBox="0 0 1700 1450"
+   id="svg157"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.84538544"
-     inkscape:cx="799.0438"
-     inkscape:cy="337.71577"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg126" />
   <defs
-     id="defs126">
-    <rect
-       x="853.15985"
-       y="244.23792"
-       width="145.53904"
-       height="38.475837"
-       id="rect2" />
+     id="defs157">
     <rect
        x="682.39746"
        y="17.349089"
        width="515.65344"
        height="104.09453"
-       id="rect2-3" />
+       id="rect2" />
     <rect
        x="125.40273"
        y="2183.6431"
        width="1602.9062"
        height="62.03989"
        id="rect20" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="200.46841"
+       height="43.038414"
+       id="rect287-1-6-2-9-3" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="200.46841"
+       height="43.038414"
+       id="rect287-1-6-2-5-8-6-8-7-2-2-9" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="200.46841"
+       height="43.038414"
+       id="rect287-1-6-2-5-8-6-8-7-2-2-9-86" />
   </defs>
   <g
-     transform="matrix(0.99519463,0,0,1.0578049,104.95526,254.91873)"
+     transform="matrix(0.91909727,0,0,0.91909727,77.733155,284.13596)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -69,7 +56,7 @@
      font-weight="none"
      font-size="none"
      text-anchor="none"
-     style="mix-blend-mode:normal;fill:#333333">
+     style="mix-blend-mode:normal">
     <g
        id="hoverHolder"
        fill="none"
@@ -85,7 +72,7 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        id="timeScaleHolder"
        fill="none"
@@ -101,7 +88,7 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        id="rangeHolder"
        fill="none"
@@ -117,7 +104,7 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        id="rangeDatasetHolder"
        fill="none"
@@ -133,7 +120,7 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        id="pruningHolder"
        fill="none"
@@ -149,7 +136,7 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        id="treeHolder"
        fill="none"
@@ -165,7 +152,7 @@
        font-weight="none"
        font-size="none"
        text-anchor="none"
-       style="mix-blend-mode:normal;fill:#333333">
+       style="mix-blend-mode:normal">
       <g
          fill="none"
          fill-rule="nonzero"
@@ -180,10 +167,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g2">
         <path
-           d="m 486.63521,960 h -5"
+           d="m 989.1699,1200 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -197,12 +184,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path1" />
         <text
-           x="486.63522"
-           y="966"
-           fill="#000000"
+           x="989.16992"
+           y="1206"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -215,10 +202,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text1">Galerina diabolissima iNat283497617 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text1">Gymnopilus hybridus iNat168108247 Idaho</text>
         <path
-           d="m 481.63521,960 h -2.5e-4"
+           d="m 984.1699,1200 v 0"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -232,7 +219,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path2" />
       </g>
       <g
@@ -249,10 +236,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g4">
         <path
-           d="m 486.63498,930 h -5"
+           d="m 989.17025,1170 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -266,12 +253,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path3" />
         <text
-           x="486.63498"
-           y="936"
-           fill="#000000"
+           x="989.17023"
+           y="1176"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -284,10 +271,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text3">Galerina diabolissima isolate12246 iNat321135481 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text3">Gymnopilus hybridus iNat299094432 Idaho</text>
         <path
-           d="m 481.63498,930 h -3e-5"
+           d="m 984.17025,1170 h -3.5e-4"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -301,7 +288,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path4" />
       </g>
       <g
@@ -318,10 +305,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g6">
         <path
-           d="m 446.82797,900 h -5"
+           d="m 1005,1140 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -335,12 +322,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path5" />
         <text
-           x="446.82797"
-           y="906"
-           fill="#000000"
+           x="1005"
+           y="1146"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -353,10 +340,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text5">Galerina mainsii iNat305269890 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text5">Gymnopilus hybridus isolate12070 iNat308528997 Idaho</text>
         <path
-           d="m 441.82797,900 h -3e-5"
+           d="M 1000,1140 H 984.17035"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -370,7 +357,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path6" />
       </g>
       <g
@@ -387,10 +374,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g8">
         <path
-           d="m 454.36232,870 h -5"
+           d="m 989.17055,1110 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -404,12 +391,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path7" />
         <text
-           x="454.36234"
-           y="876"
-           fill="#000000"
+           x="989.17053"
+           y="1116"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -422,10 +409,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text7">Galerina mainsii iNat310931337 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text7">Gymnopilus hybridus iNat166728776 Idaho</text>
         <path
-           d="m 449.36232,870 h -7.53438"
+           d="m 984.17055,1110 h -2e-4"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -439,7 +426,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path8" />
       </g>
       <g
@@ -456,10 +443,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g10">
         <path
-           d="m 417.80724,840 h -5"
+           d="m 989.1693,1080 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -473,12 +460,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path9" />
         <text
-           x="417.80725"
-           y="846"
-           fill="#000000"
+           x="989.16931"
+           y="1086"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -491,10 +478,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text9">Galerina angustifolia iNat306900755 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text9">Gymnopilus hybridus iNat310495011 Idaho</text>
         <path
-           d="m 412.80724,840 h -3.7631"
+           d="m 984.1693,1080 v 0"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -508,7 +495,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path10" />
       </g>
       <g
@@ -525,10 +512,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g12">
         <path
-           d="m 421.56083,810 h -5"
+           d="m 1001.2535,1050 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -542,12 +529,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path11" />
         <text
-           x="421.56082"
-           y="816"
-           fill="#000000"
+           x="1001.2535"
+           y="1056"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -560,10 +547,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text11">Galerina angustifolia iNat301512500 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text11">Gymnopilus luteus iNat320670428 Idaho</text>
         <path
-           d="m 416.56083,810 h -7.51669"
+           d="M 996.2535,1050 H 909.43151"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -577,7 +564,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path12" />
       </g>
       <g
@@ -594,10 +581,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g14">
         <path
-           d="m 417.78671,780 h -5"
+           d="m 945.87401,1020 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -611,12 +598,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path13" />
         <text
-           x="417.78671"
-           y="786"
-           fill="#000000"
+           x="945.87402"
+           y="1026"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -629,10 +616,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text13">Galerina angustifolia iNat313733657 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text13">Gymnopilus voitkii iNat317246089 Idaho</text>
         <path
-           d="M 412.78671,780 H 401.34148"
+           d="M 940.87401,1020 H 909.43152"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -646,7 +633,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path14" />
       </g>
       <g
@@ -663,10 +650,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g16">
         <path
-           d="m 397.82243,750 h -5"
+           d="m 547.9976,990 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -680,12 +667,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path15" />
         <text
-           x="397.82242"
-           y="756"
-           fill="#000000"
+           x="547.99762"
+           y="996"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -698,10 +685,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text15">Galerina vittiformis bispora iNat327756333 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text15">Galerina sp ID01 iNat187664944 Idaho</text>
         <path
-           d="m 392.82243,750 h -3e-5"
+           d="m 542.9976,990 h -5e-5"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -715,7 +702,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path16" />
       </g>
       <g
@@ -732,10 +719,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g18">
         <path
-           d="m 401.54757,720 h -5"
+           d="m 547.9976,960 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -749,12 +736,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path17" />
         <text
-           x="401.54758"
-           y="726"
-           fill="#000000"
+           x="547.99762"
+           y="966"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -767,10 +754,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text17">Galerina vittiformis bispora iNat315434950 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text17">Galerina sp ID01 iNat188091623 Idaho</text>
         <path
-           d="m 396.54757,720 h -3.72516"
+           d="m 542.9976,960 h -5e-5"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -784,7 +771,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path18" />
       </g>
       <g
@@ -801,10 +788,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g20">
         <path
-           d="m 411.26619,690 h -5"
+           d="m 584.56277,930 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -818,12 +805,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path19" />
         <text
-           x="411.2662"
-           y="696"
-           fill="#000000"
+           x="584.56274"
+           y="936"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -836,10 +823,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text19">Galerina atkinsoniana iNat315392169 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text19">Galerina sp lubrica ID02 iNat310930323 Idaho</text>
         <path
-           d="M 406.26619,690 H 361.33048"
+           d="M 579.56277,930 H 504.23681"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -853,7 +840,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path20" />
       </g>
       <g
@@ -870,10 +857,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g22">
         <path
-           d="m 401.2699,660 h -5"
+           d="m 722.6428,900 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -887,12 +874,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path21" />
         <text
-           x="401.2699"
-           y="666"
-           fill="#000000"
+           x="722.64282"
+           y="906"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -905,10 +892,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text21">Galerina sp ID01 iNat187664944 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text21">Galerina diabolissima iNat283497617 Idaho</text>
         <path
-           d="m 396.2699,660 h -3e-5"
+           d="m 717.6428,900 h -4e-4"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -922,7 +909,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path22" />
       </g>
       <g
@@ -939,10 +926,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g24">
         <path
-           d="m 401.2699,630 h -5"
+           d="m 722.6424,870 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -956,12 +943,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path23" />
         <text
-           x="401.2699"
-           y="636"
-           fill="#000000"
+           x="722.6424"
+           y="876"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -974,10 +961,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text23">Galerina sp ID01 iNat188091623 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text23">Galerina diabolissima isolate12246 iNat321135481 Idaho</text>
         <path
-           d="m 396.2699,630 h -3e-5"
+           d="m 717.6424,870 v 0"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -991,7 +978,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path24" />
       </g>
       <g
@@ -1008,10 +995,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g26">
         <path
-           d="m 424.59542,600 h -5"
+           d="m 646.4914,840 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1025,12 +1012,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path25" />
         <text
-           x="424.59543"
-           y="606"
-           fill="#000000"
+           x="646.49139"
+           y="846"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1043,10 +1030,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text25">Galerina sp lubrica ID02 iNat310930323 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text25">Galerina mainsii iNat305269890 Idaho</text>
         <path
-           d="M 419.59542,600 H 378.28671"
+           d="m 641.4914,840 v 0"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1060,7 +1047,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path26" />
       </g>
       <g
@@ -1077,10 +1064,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g28">
         <path
-           d="m 489.4346,570 h -5"
+           d="m 661.53465,810 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1094,12 +1081,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path27" />
         <text
-           x="489.4346"
-           y="576"
-           fill="#000000"
+           x="661.53467"
+           y="816"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1112,10 +1099,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text27">Galerina badipes iNat168109951 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text27">Galerina mainsii iNat310931337 Idaho</text>
         <path
-           d="m 484.4346,570 h -3e-5"
+           d="M 656.53465,810 H 641.4914"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1129,7 +1116,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path28" />
       </g>
       <g
@@ -1146,10 +1133,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g30">
         <path
-           d="m 489.4348,540 h -5"
+           d="m 588.84004,780 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1163,12 +1150,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path29" />
         <text
-           x="489.43481"
-           y="546"
-           fill="#000000"
+           x="588.84003"
+           y="786"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1181,10 +1168,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text29">Galerina badipes iNat317236588 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text29">Galerina angustifolia iNat306900755 Idaho</text>
         <path
-           d="m 484.4348,540 h -2.3e-4"
+           d="m 583.84004,780 h -7.46721"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1198,7 +1185,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path30" />
       </g>
       <g
@@ -1215,10 +1202,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g32">
         <path
-           d="m 493.25181,510 h -5"
+           d="m 596.27896,750 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1232,12 +1219,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path31" />
         <text
-           x="493.2518"
-           y="516"
-           fill="#000000"
+           x="596.27893"
+           y="756"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1250,10 +1237,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text31">Galerina badipes iNat317237437 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text31">Galerina angustifolia iNat301512500 Idaho</text>
         <path
-           d="m 488.25181,510 h -3.81727"
+           d="M 591.27896,750 H 576.37283"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1267,7 +1254,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path32" />
       </g>
       <g
@@ -1284,10 +1271,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g34">
         <path
-           d="m 494.05761,480 h -5"
+           d="m 581.20503,720 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1301,12 +1288,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path33" />
         <text
-           x="494.05762"
-           y="486"
-           fill="#000000"
+           x="581.20502"
+           y="726"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1319,10 +1306,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text33">Galerina badipes iNat327756006 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text33">Galerina angustifolia iNat313733657 Idaho</text>
         <path
-           d="m 489.05761,480 h -8.09588"
+           d="m 576.20503,720 h -15.0415"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1336,7 +1323,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path34" />
       </g>
       <g
@@ -1353,10 +1340,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g36">
         <path
-           d="m 498.80228,450 h -5"
+           d="m 548.60447,690 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1370,12 +1357,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path35" />
         <text
-           x="498.80228"
-           y="456"
-           fill="#000000"
+           x="548.60449"
+           y="696"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1388,10 +1375,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text35">Galerina jaapii iNat310491449 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text35">Galerina vittiformis bispora iNat327756333 Idaho</text>
         <path
-           d="m 493.80228,450 h -3e-5"
+           d="m 543.60447,690 v 0"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1405,7 +1392,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path36" />
       </g>
       <g
@@ -1422,10 +1409,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g38">
         <path
-           d="m 498.80264,420 h -5"
+           d="m 555.99533,660 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1439,12 +1426,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path37" />
         <text
-           x="498.80264"
-           y="426"
-           fill="#000000"
+           x="555.9953"
+           y="666"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1457,10 +1444,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text37">Galerina jaapii iNat305276412 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text37">Galerina vittiformis bispora iNat315434950 Idaho</text>
         <path
-           d="m 493.80264,420 h -3.8e-4"
+           d="m 550.99533,660 h -7.39086"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1474,7 +1461,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path38" />
       </g>
       <g
@@ -1491,10 +1478,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g40">
         <path
-           d="m 495.00323,390 h -5"
+           d="m 565.95222,630 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1508,12 +1495,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path39" />
         <text
-           x="495.00323"
-           y="396"
-           fill="#000000"
+           x="565.95221"
+           y="636"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1526,10 +1513,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text39">PQ492369 Galerina jaapii iNat187664661 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text39">Galerina atkinsoniana iNat315392169 Idaho</text>
         <path
-           d="m 490.00323,390 h -2.5e-4"
+           d="M 560.95222,630 H 476.54876"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1543,7 +1530,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path40" />
       </g>
       <g
@@ -1560,10 +1547,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g42">
         <path
-           d="m 530.4563,360 h -5"
+           d="m 778.07691,600 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1577,12 +1564,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path41" />
         <text
-           x="530.4563"
-           y="366"
-           fill="#000000"
+           x="778.0769"
+           y="606"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1595,10 +1582,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text41">PQ516952 Galerina marginata iNat181494518 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text41">Galerina badipes iNat317236588 Idaho</text>
         <path
-           d="M 525.4563,360 H 433.11507"
+           d="m 773.07691,600 v 0"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1612,7 +1599,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path42" />
       </g>
       <g
@@ -1629,10 +1616,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g44">
         <path
-           d="m 419.40537,330 h -5"
+           d="m 778.07726,570 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1646,12 +1633,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path43" />
         <text
-           x="419.40536"
-           y="336"
-           fill="#000000"
+           x="778.07727"
+           y="576"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1664,10 +1651,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text43">Galerina triscopa iNat169163674 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text43">Galerina badipes iNat168109951 Idaho</text>
         <path
-           d="m 414.40537,330 h -3e-5"
+           d="m 773.07726,570 h -3.5e-4"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1681,7 +1668,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path44" />
       </g>
       <g
@@ -1698,10 +1685,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g46">
         <path
-           d="m 419.40537,300 h -5"
+           d="m 785.62916,540 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1715,12 +1702,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path45" />
         <text
-           x="419.40536"
-           y="306"
-           fill="#000000"
+           x="785.62915"
+           y="546"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1733,10 +1720,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text45">Galerina triscopa iNat169163674 2 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text45">Galerina badipes iNat317237437 Idaho</text>
         <path
-           d="m 414.40537,300 h -3e-5"
+           d="m 780.62916,540 h -7.55265"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1750,7 +1737,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path46" />
       </g>
       <g
@@ -1767,10 +1754,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g48">
         <path
-           d="m 1005,270 h -5"
+           d="m 786.86184,510 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1784,12 +1771,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path47" />
         <text
-           x="1005"
-           y="276"
-           fill="#000000"
+           x="786.86182"
+           y="516"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1802,10 +1789,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text47">Galerina hybrida iNat310931623 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text47">Galerina badipes iNat327756006 Idaho</text>
         <path
-           d="m 1000,270 h -4.58228"
+           d="M 781.86184,510 H 766.04268"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1819,7 +1806,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path48" />
       </g>
       <g
@@ -1836,10 +1823,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g50">
         <path
-           d="m 1000.4177,240 h -4.99995"
+           d="m 797.56721,480 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1853,12 +1840,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path49" />
         <text
-           x="1000.4177"
-           y="246"
-           fill="#000000"
+           x="797.5672"
+           y="486"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1871,10 +1858,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text49">Galerina hybrida iNat310931534 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text49">PQ516952 Galerina marginata iNat181494518 Idaho</text>
         <path
-           d="m 995.41775,240 h -3e-5"
+           d="M 792.56721,480 H 637.97177"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1888,7 +1875,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path50" />
       </g>
       <g
@@ -1905,10 +1892,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g52">
         <path
-           d="m 1000.4175,210 h -4.99998"
+           d="m 702.68454,450 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1922,12 +1909,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path51" />
         <text
-           x="1000.4175"
-           y="216"
-           fill="#000000"
+           x="702.68457"
+           y="456"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -1940,10 +1927,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text51">Galerina hybrida iNat301515121 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text51">Galerina jaapii iNat310491449 Idaho</text>
         <path
-           d="m 995.41752,210 h -3e-5"
+           d="m 697.68454,450 v 0"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -1957,7 +1944,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path52" />
       </g>
       <g
@@ -1974,10 +1961,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g54">
         <path
-           d="m 1000.4175,180 h -4.99998"
+           d="m 702.68519,420 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -1991,12 +1978,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path53" />
         <text
-           x="1000.4175"
-           y="186"
-           fill="#000000"
+           x="702.68518"
+           y="426"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -2009,10 +1996,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text53">Galerina hybrida iNat312096999 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text53">Galerina jaapii iNat305276412 Idaho</text>
         <path
-           d="m 995.41752,180 h -3e-5"
+           d="m 697.68519,420 h -6.5e-4"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2026,7 +2013,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path54" />
       </g>
       <g
@@ -2043,10 +2030,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g56">
         <path
-           d="m 1000.4175,150 h -5.00003"
+           d="m 695.17276,390 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -2060,12 +2047,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path55" />
         <text
-           x="1000.4175"
-           y="156"
-           fill="#000000"
+           x="695.17273"
+           y="396"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -2078,10 +2065,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text55">Galerina hybrida iNat312095863 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text55">PQ492369 Galerina jaapii iNat187664661 Idaho</text>
         <path
-           d="m 995.41747,150 h -3e-5"
+           d="m 690.17276,390 h -4e-4"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2095,7 +2082,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path56" />
       </g>
       <g
@@ -2112,10 +2099,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g58">
         <path
-           d="m 519.56189,120 h -5"
+           d="m 559.11422,360 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -2129,12 +2116,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path57" />
         <text
-           x="519.56189"
-           y="126"
-           fill="#000000"
+           x="559.1142"
+           y="366"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -2147,10 +2134,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text57">PP980481 Galerina nigripes isolate3927 iNat195401307 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text57">Galerina triscopa iNat169163674 Idaho</text>
         <path
-           d="m 514.56189,120 h -2.3e-4"
+           d="m 554.11422,360 h -5e-5"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2164,7 +2151,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path58" />
       </g>
       <g
@@ -2181,10 +2168,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g60">
         <path
-           d="m 527.61209,90 h -5"
+           d="m 559.11422,330 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -2198,12 +2185,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path59" />
         <text
-           x="527.61206"
-           y="96"
-           fill="#000000"
+           x="559.1142"
+           y="336"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -2216,10 +2203,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text59">Galerina nigripes iNat315435121 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text59">Galerina triscopa iNat169163674 2 Idaho</text>
         <path
-           d="m 522.61209,90 h -8.05042"
+           d="m 554.11422,330 h -5e-5"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2233,7 +2220,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path60" />
       </g>
       <g
@@ -2250,10 +2237,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g62">
         <path
-           d="m 519.56181,60 h -5"
+           d="m 959.98134,300 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -2267,12 +2254,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path61" />
         <text
-           x="519.56183"
-           y="66"
-           fill="#000000"
+           x="959.98132"
+           y="306"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -2285,10 +2272,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text61">PQ492363 Galerina nigripes iNat199742388 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text61">Galerina hybrida iNat310931623 Idaho</text>
         <path
-           d="m 514.56181,60 h -3.8e-4"
+           d="m 954.98134,300 v 0"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2302,7 +2289,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path62" />
       </g>
       <g
@@ -2319,10 +2306,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g64">
         <path
-           d="m 528.63396,30 h -5"
+           d="m 959.98139,270 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -2336,12 +2323,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path63" />
         <text
-           x="528.63397"
-           y="36"
-           fill="#000000"
+           x="959.98138"
+           y="276"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -2354,10 +2341,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="text63">Galerina clavata iNat303505644 Idaho</text>
+           style="mix-blend-mode:normal"
+           id="text63">Galerina hybrida iNat312095863 Idaho</text>
         <path
-           d="M 523.63396,30 H 455.29303"
+           d="m 954.98139,270 h -5e-5"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2371,7 +2358,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path64" />
       </g>
       <g
@@ -2388,10 +2375,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g66">
         <path
-           d="m 265.65034,0 h -5"
+           d="m 959.98134,240 h -5"
            fill="none"
            fill-rule="nonzero"
            stroke="#aaaaaa"
@@ -2405,12 +2392,12 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path65" />
         <text
-           x="265.65033"
-           y="6"
-           fill="#000000"
+           x="959.98132"
+           y="246"
+           fill="#444444"
            fill-rule="nonzero"
            stroke="none"
            stroke-width="1"
@@ -2423,14 +2410,10 @@
            font-weight=""
            font-size="20px"
            text-anchor="start"
-           style="white-space:pre;inline-size:900.493;mix-blend-mode:normal;fill:#333333"
-           id="text65"
-           xml:space="preserve"><tspan
-             x="265.65033"
-             y="6"
-             id="tspan1">Agrocybe pediades isolate4065 iNat207839973 Idaho </tspan></text>
+           style="mix-blend-mode:normal"
+           id="text65">Galerina hybrida iNat301515121 Idaho</text>
         <path
-           d="M 260.65034,0 H 130.32517"
+           d="m 954.98134,240 h -5e-5"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2444,61 +2427,62 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path66" />
       </g>
       <g
          fill="none"
          fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="none"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
          stroke-dasharray="none"
-         stroke-dashoffset="0"
+         stroke-dashoffset="none"
          font-family="none"
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g67">
-        <path
-           d="m 995.41772,255 h -2.5e-4 m 2.5e-4,15 v -30"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path67" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g68">
         <path
-           d="m 995.41749,195 h -3e-5 m 3e-5,15 v -30"
+           d="m 959.98214,210 h -5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="0.3"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path67" />
+        <text
+           x="959.98212"
+           y="216"
+           fill="#444444"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight=""
+           font-size="20px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="text67">Galerina hybrida iNat312096999 Idaho</text>
+        <path
+           d="m 954.98214,210 h -3.5e-4"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2512,61 +2496,62 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path68" />
       </g>
       <g
          fill="none"
          fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="none"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
          stroke-dasharray="none"
-         stroke-dashoffset="0"
+         stroke-dashoffset="none"
          font-family="none"
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g69">
-        <path
-           d="m 995.41747,225 h -3e-5 m 3e-5,30 v -60"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path69" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g70">
         <path
-           d="M 995.41744,187.5 H 393.44731 M 995.41744,225 v -75"
+           d="m 959.98184,180 h -5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="0.3"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path69" />
+        <text
+           x="959.98181"
+           y="186"
+           fill="#444444"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight=""
+           font-size="20px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="text69">Galerina hybrida iNat310931534 Idaho</text>
+        <path
+           d="m 954.98184,180 h -5e-5"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2580,61 +2565,62 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path70" />
       </g>
       <g
          fill="none"
          fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="none"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
          stroke-dasharray="none"
-         stroke-dashoffset="0"
+         stroke-dashoffset="none"
          font-family="none"
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g71">
-        <path
-           d="m 514.56166,105 h -2.3e-4 m 2.3e-4,15 V 90"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path71" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g72">
         <path
-           d="m 514.56144,82.5 h -59.2684 m 59.2684,22.5 V 60"
+           d="m 634.80555,150 h -5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="0.3"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path71" />
+        <text
+           x="634.80554"
+           y="156"
+           fill="#444444"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight=""
+           font-size="20px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="text71">PP980481 Galerina nigripes isolate3927 iNat195401307 Idaho</text>
+        <path
+           d="m 629.80555,150 h -4.5e-4"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2648,61 +2634,62 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path72" />
       </g>
       <g
          fill="none"
          fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="none"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
          stroke-dasharray="none"
-         stroke-dashoffset="0"
+         stroke-dashoffset="none"
          font-family="none"
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g73">
-        <path
-           d="M 455.29303,56.25 H 393.44731 M 455.29303,82.5 V 30"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path73" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g74">
         <path
-           d="M 393.44731,121.875 H 260.65034 M 393.44731,187.5 V 56.25"
+           d="m 650.66348,120 h -5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="0.3"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path73" />
+        <text
+           x="650.66345"
+           y="126"
+           fill="#444444"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight=""
+           font-size="20px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="text73">Galerina nigripes iNat315435121 Idaho</text>
+        <path
+           d="M 645.66348,120 H 629.8051"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2716,61 +2703,62 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path74" />
       </g>
       <g
          fill="none"
          fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="none"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
          stroke-dasharray="none"
-         stroke-dashoffset="0"
+         stroke-dashoffset="none"
          font-family="none"
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g75">
-        <path
-           d="m 409.04414,825 h -7.70266 m 7.70266,15 v -30"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path75" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g76">
         <path
-           d="m 401.34148,802.5 h -9.23145 m 9.23145,22.5 v -45"
+           d="m 634.8051,90 h -5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="0.3"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path75" />
+        <text
+           x="634.80511"
+           y="96"
+           fill="#444444"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight=""
+           font-size="20px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="text75">PQ492363 Galerina nigripes iNat199742388 Idaho</text>
+        <path
+           d="m 629.8051,90 h -4.5e-4"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2784,61 +2772,62 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path76" />
       </g>
       <g
          fill="none"
          fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="none"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
          stroke-dasharray="none"
-         stroke-dashoffset="0"
+         stroke-dashoffset="none"
          font-family="none"
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g77">
-        <path
-           d="m 441.82794,885 h -31.24439 m 31.24439,15 v -30"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path77" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g78">
         <path
-           d="m 481.63496,945 h -71.05141 m 71.05141,15 v -30"
+           d="m 678.84872,60 h -5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="0.3"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path77" />
+        <text
+           x="678.84869"
+           y="66"
+           fill="#444444"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight=""
+           font-size="20px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="text77">Galerina clavata iNat303505644 Idaho</text>
+        <path
+           d="M 673.84872,60 H 534.39126"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2852,61 +2841,62 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path78" />
       </g>
       <g
          fill="none"
          fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="none"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
          stroke-dasharray="none"
-         stroke-dashoffset="0"
+         stroke-dashoffset="none"
          font-family="none"
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g79">
-        <path
-           d="m 410.58355,915 h -18.47352 m 18.47352,30 v -60"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path79" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g80">
         <path
-           d="m 392.11003,858.75 h -4.60804 M 392.11003,915 V 802.5"
+           d="m 417.8436,30 h -5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="0.3"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path79" />
+        <text
+           x="417.8436"
+           y="36"
+           fill="#444444"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight=""
+           font-size="20px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="text79">Agrocybe pediades isolate4069 iNat207534292 Idaho</text>
+        <path
+           d="M 412.8436,30 H 232.90428"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2920,61 +2910,62 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path80" />
       </g>
       <g
          fill="none"
          fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="none"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
          stroke-dasharray="none"
-         stroke-dashoffset="0"
+         stroke-dashoffset="none"
          font-family="none"
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g81">
-        <path
-           d="m 392.82241,735 h -5.32042 m 5.32042,15 v -30"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path81" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g82">
         <path
-           d="m 387.50199,796.875 h -26.1715 m 26.1715,61.875 V 735"
+           d="m 420.85481,0 h -5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#aaaaaa"
+           stroke-width="0.3"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="5, 10"
+           stroke-dashoffset="10"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path81" />
+        <text
+           x="420.8548"
+           y="6"
+           fill="#444444"
+           fill-rule="nonzero"
+           stroke="none"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="Arial"
+           font-weight=""
+           font-size="20px"
+           text-anchor="start"
+           style="mix-blend-mode:normal"
+           id="text81">Agrocybe microspora isolate6751 iNat215016412 Idaho</text>
+        <path
+           d="M 415.85481,0 H 232.90429"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -2988,7 +2979,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path82" />
       </g>
       <g
@@ -3005,10 +2996,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g83">
         <path
-           d="m 361.33048,743.4375 h -44.76689 m 44.76689,53.4375 V 690"
+           d="m 954.98179,195 h -5.5e-4 m 5.5e-4,15 v -30"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3022,7 +3013,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path83" />
       </g>
       <g
@@ -3039,10 +3030,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g84">
         <path
-           d="m 396.26987,645 h -17.98316 m 17.98316,15 v -30"
+           d="m 954.98134,285 h -5e-5 m 5e-5,15 v -30"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3056,7 +3047,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path84" />
       </g>
       <g
@@ -3073,10 +3064,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g85">
         <path
-           d="M 378.28671,622.5 H 316.56359 M 378.28671,645 V 600"
+           d="m 954.98129,262.5 h -5e-5 m 5e-5,22.5 v -45"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3090,15 +3081,15 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path85" />
       </g>
       <g
          fill="none"
          fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="none"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
          stroke-dasharray="none"
@@ -3107,78 +3098,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g86">
-        <path
-           d="m 316.56359,682.96875 h -15.99264 m 15.99264,60.46875 V 622.5"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path86" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
-         id="g87">
-        <path
-           d="m 493.80226,435 h -3.79928 m 3.79928,15 v -30"
-           fill="none"
-           fill-rule="nonzero"
-           stroke="#000000"
-           stroke-width="1"
-           stroke-linecap="round"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
-           id="path87" />
-      </g>
-      <g
-         fill="none"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="1"
-         stroke-linecap="round"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g88">
         <path
-           d="m 490.00298,412.5 h -56.8879 m 56.8879,22.5 v -45"
+           d="m 954.98124,228.75 h -531.1468 m 531.1468,33.75 V 195"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3192,7 +3115,41 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
+           id="path86" />
+        <path
+           d="m 693.40784,228.75 h -8"
+           fill="#ffffff"
+           fill-rule="nonzero"
+           stroke="#ffffff"
+           stroke-width="2"
+           stroke-linecap="square"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path87" />
+        <path
+           d="m 694.40784,223.75 v 10 m -10,-10 v 10"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="square"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
            id="path88" />
       </g>
       <g
@@ -3209,10 +3166,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g89">
         <path
-           d="m 433.11508,386.25 h -13.49827 m 13.49827,26.25 V 360"
+           d="m 629.8051,135 h -4.5e-4 m 4.5e-4,15 v -30"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3226,7 +3183,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path89" />
       </g>
       <g
@@ -3243,10 +3200,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g90">
         <path
-           d="m 484.43457,555 h -3e-5 m 3e-5,15 v -30"
+           d="M 629.80465,112.5 H 534.39126 M 629.80465,135 V 90"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3260,7 +3217,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path90" />
       </g>
       <g
@@ -3277,10 +3234,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g91">
         <path
-           d="m 484.43455,532.5 h -3.47282 m 3.47282,22.5 v -45"
+           d="M 534.39126,86.25 H 423.83444 M 534.39126,112.5 V 60"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3294,7 +3251,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path91" />
       </g>
       <g
@@ -3311,10 +3268,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g92">
         <path
-           d="M 480.96172,506.25 H 419.6168 m 61.34492,26.25 V 480"
+           d="M 423.83444,157.5 H 232.90428 m 190.93016,71.25 V 86.25"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3328,7 +3285,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path92" />
       </g>
       <g
@@ -3345,10 +3302,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g93">
         <path
-           d="m 419.61681,446.25 h -84.1946 m 84.1946,60 v -120"
+           d="m 576.37283,765 h -15.20929 m 15.20929,15 v -30"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3362,7 +3319,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path93" />
       </g>
       <g
@@ -3379,10 +3336,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g94">
         <path
-           d="M 414.40534,315 H 335.4222 m 78.98314,15 v -30"
+           d="M 561.16354,742.5 H 543.083 m 18.08054,22.5 v -45"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3396,7 +3353,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path94" />
       </g>
       <g
@@ -3413,10 +3370,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g95">
         <path
-           d="m 335.42221,380.625 h -34.85126 m 34.85126,65.625 V 315"
+           d="m 641.4914,825 h -62.6176 m 62.6176,15 v -30"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3430,7 +3387,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path95" />
       </g>
       <g
@@ -3447,10 +3404,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g96">
         <path
-           d="m 300.57095,531.79688 h -39.9206 m 39.9206,151.17187 V 380.625"
+           d="M 717.6424,885 H 578.87381 m 138.76859,15 v -30"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3464,7 +3421,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path96" />
       </g>
       <g
@@ -3481,10 +3438,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g97">
         <path
-           d="M 260.65034,326.83594 H 130.32517 M 260.65034,531.79688 V 121.87501"
+           d="M 578.87381,855 H 543.083 m 35.79081,30 v -60"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3498,7 +3455,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path97" />
       </g>
       <g
@@ -3515,10 +3472,10 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal;fill:#333333"
+         style="mix-blend-mode:normal"
          id="g98">
         <path
-           d="M 130.32517,163.41797 H 0 M 130.32517,326.83594 V 0"
+           d="m 543.083,798.75 h -9.52961 M 543.083,855 V 742.5"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3532,8 +3489,892 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#333333"
+           style="mix-blend-mode:normal"
            id="path98" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g99">
+        <path
+           d="m 543.60447,675 h -10.05108 m 10.05108,15 v -30"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path99" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g100">
+        <path
+           d="m 533.55339,736.875 h -57.00463 m 57.00463,61.875 V 675"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path100" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g101">
+        <path
+           d="m 476.54876,683.4375 h -82.93033 m 82.93033,53.4375 V 630"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path101" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g102">
+        <path
+           d="m 542.99755,975 h -38.76074 m 38.76074,15 v -30"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path102" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g103">
+        <path
+           d="M 504.23681,952.5 H 456.40877 M 504.23681,975 V 930"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path103" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g104">
+        <path
+           d="M 909.43152,1035 H 729.30727 m 180.12425,15 v -30"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path104" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g105">
+        <path
+           d="m 984.17035,1125 h -4.5e-4 m 4.5e-4,15 v -30"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path105" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g106">
+        <path
+           d="m 984.1699,1185 v 0 m 0,15 v -30"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path106" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g107">
+        <path
+           d="m 984.1699,1155 h -6e-4 m 6e-4,30 v -60"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path107" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g108">
+        <path
+           d="M 984.1693,1117.5 H 729.30727 M 984.1693,1155 v -75"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path108" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g109">
+        <path
+           d="m 729.30727,1076.25 h -272.8985 m 272.8985,41.25 V 1035"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path109" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g110">
+        <path
+           d="m 456.40877,1014.375 h -62.79034 m 62.79034,61.875 V 952.5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path110" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g111">
+        <path
+           d="M 393.61843,848.90625 H 359.30989 M 393.61843,1014.375 V 683.4375"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path111" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g112">
+        <path
+           d="m 773.07691,585 h -4e-4 m 4e-4,15 v -30"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path112" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g113">
+        <path
+           d="m 773.07651,562.5 h -7.03383 m 7.03383,22.5 v -45"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path113" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g114">
+        <path
+           d="M 766.04268,536.25 H 637.97177 M 766.04268,562.5 V 510"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path114" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g115">
+        <path
+           d="m 637.97177,508.125 h -34.96103 m 34.96103,28.125 V 480"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path115" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g116">
+        <path
+           d="m 697.68454,435 h -7.51218 m 7.51218,15 v -30"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path116" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g117">
+        <path
+           d="M 690.17236,412.5 H 603.01074 M 690.17236,435 V 390"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path117" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g118">
+        <path
+           d="m 603.01074,460.3125 h -176.7002 m 176.7002,47.8125 V 412.5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path118" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g119">
+        <path
+           d="M 554.11417,345 H 426.31054 m 127.80363,15 v -30"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path119" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g120">
+        <path
+           d="M 426.31054,402.65625 H 359.3099 m 67.00064,57.65625 V 345"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path120" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g121">
+        <path
+           d="M 359.30989,625.78125 H 232.90428 m 126.40561,223.125 v -446.25"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path121" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g122">
+        <path
+           d="M 232.90428,391.64063 H 116.45214 M 232.90428,625.78125 V 157.5"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path122" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g123">
+        <path
+           d="M 232.90428,15 H 116.45214 M 232.90428,30 V 0"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path123" />
+      </g>
+      <g
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         id="g124">
+        <path
+           d="M 116.45214,203.32031 H 0 M 116.45214,391.64063 V 15.00001"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="round"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path124" />
       </g>
     </g>
     <g
@@ -3551,10 +4392,10 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        id="bootstrapHolder"
-       fill="#000000"
+       fill="#660000"
        fill-rule="nonzero"
        stroke="none"
        stroke-width="1"
@@ -3564,320 +4405,14 @@
        stroke-dasharray="none"
        stroke-dashoffset="0"
        font-family="Arial"
-       font-weight=""
+       font-style="italic"
        font-size="14px"
        text-anchor="middle"
-       style="mix-blend-mode:normal;fill:#333333">
+       style="mix-blend-mode:normal">
       <text
-         x="280.61063"
-         y="545.34686"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text98">60</text>
-      <text
-         x="374.41623"
-         y="810.42499"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text99">86</text>
-      <text
-         x="426.36594"
-         y="399.79999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text100">20</text>
-      <text
-         x="389.806"
-         y="872.29999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text101">61</text>
-      <text
-         x="401.3468"
-         y="928.54999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text102">88</text>
-      <text
-         x="461.55902"
-         y="426.04999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text103">98</text>
-      <text
-         x="347.42514"
-         y="636.04999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text104">98</text>
-      <text
-         x="694.43237"
-         y="201.05"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text105">100</text>
-      <text
-         x="446.10925"
-         y="958.54999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text106">100</text>
-      <text
-         x="308.56726"
-         y="696.51874"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text107">61</text>
-      <text
-         x="405.19281"
-         y="838.54999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text108">87</text>
-      <text
-         x="390.1622"
-         y="748.54999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text109">77</text>
-      <text
-         x="338.94702"
-         y="756.98749"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text110">93</text>
-      <text
-         x="374.91379"
-         y="328.54999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text111">98</text>
-      <text
-         x="327.04883"
-         y="135.425"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text112">92</text>
-      <text
-         x="482.69815"
-         y="546.04999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text113">73</text>
-      <text
-         x="396.72574"
-         y="816.04999"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight=""
-         font-size="14px"
-         text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text114">86</text>
-      <text
-         x="426.20575"
+         x="648.25812"
          y="898.54999"
-         fill="#000000"
+         fill="#660000"
          fill-rule="nonzero"
          stroke="none"
          stroke-width="1"
@@ -3887,15 +4422,15 @@
          stroke-dasharray="none"
          stroke-dashoffset="0"
          font-family="Arial"
-         font-weight=""
+         font-style="italic"
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text115">96</text>
+         style="mix-blend-mode:normal"
+         id="text124">100</text>
       <text
-         x="484.92722"
-         y="96.050003"
-         fill="#000000"
+         x="392.81021"
+         y="416.20624"
+         fill="#660000"
          fill-rule="nonzero"
          stroke="none"
          stroke-width="1"
@@ -3905,15 +4440,15 @@
          stroke-dasharray="none"
          stroke-dashoffset="0"
          font-family="Arial"
-         font-weight=""
+         font-style="italic"
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text116">95</text>
+         style="mix-blend-mode:normal"
+         id="text125">82</text>
       <text
-         x="387.27829"
-         y="658.54999"
-         fill="#000000"
+         x="552.12329"
+         y="756.04999"
+         fill="#660000"
          fill-rule="nonzero"
          stroke="none"
          stroke-width="1"
@@ -3923,15 +4458,15 @@
          stroke-dasharray="none"
          stroke-dashoffset="0"
          font-family="Arial"
-         font-weight=""
+         font-style="italic"
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text117">85</text>
+         style="mix-blend-mode:normal"
+         id="text126">85</text>
       <text
-         x="450.28925"
-         y="519.79999"
-         fill="#000000"
+         x="514.66064"
+         y="473.86249"
+         fill="#660000"
          fill-rule="nonzero"
          stroke="none"
          stroke-width="1"
@@ -3941,15 +4476,15 @@
          stroke-dasharray="none"
          stroke-dashoffset="0"
          font-family="Arial"
-         font-weight=""
+         font-style="italic"
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text118">98</text>
+         style="mix-blend-mode:normal"
+         id="text127">99</text>
       <text
-         x="317.99658"
-         y="394.17499"
-         fill="#000000"
+         x="523.61719"
+         y="988.54999"
+         fill="#660000"
          fill-rule="nonzero"
          stroke="none"
          stroke-width="1"
@@ -3959,15 +4494,15 @@
          stroke-dasharray="none"
          stroke-dashoffset="0"
          font-family="Arial"
-         font-weight=""
+         font-style="italic"
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text119">72</text>
+         style="mix-blend-mode:normal"
+         id="text128">92</text>
       <text
-         x="424.37018"
-         y="69.800003"
-         fill="#000000"
+         x="646.59155"
+         y="426.04999"
+         fill="#660000"
          fill-rule="nonzero"
          stroke="none"
          stroke-width="1"
@@ -3977,15 +4512,321 @@
          stroke-dasharray="none"
          stroke-dashoffset="0"
          font-family="Arial"
-         font-weight=""
+         font-style="italic"
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text120">78</text>
+         style="mix-blend-mode:normal"
+         id="text129">95</text>
       <text
-         x="491.90262"
+         x="620.49127"
+         y="521.67499"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text130">71</text>
+      <text
+         x="328.36935"
+         y="171.05"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text131">91</text>
+      <text
+         x="538.31818"
+         y="812.29999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text132">76</text>
+      <text
+         x="479.11285"
+         y="99.800003"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text133">85</text>
+      <text
+         x="296.10709"
+         y="639.33124"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text134">92</text>
+      <text
+         x="435.08359"
+         y="696.98749"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text135">94</text>
+      <text
+         x="505.05109"
+         y="750.42499"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text136">91</text>
+      <text
+         x="702.0072"
+         y="549.79999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text137">99</text>
+      <text
+         x="480.32278"
+         y="966.04999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text138">82</text>
+      <text
+         x="490.21234"
+         y="358.54999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text139">97</text>
+      <text
+         x="592.85803"
+         y="1089.8"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text140">100</text>
+      <text
+         x="538.57892"
+         y="688.54999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text141">76</text>
+      <text
+         x="856.73828"
+         y="1131.05"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text142">100</text>
+      <text
+         x="582.09796"
+         y="126.05"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text143">96</text>
+      <text
+         x="689.40784"
+         y="242.3"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text144">100</text>
+      <text
+         x="560.97839"
+         y="868.54999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text145">88</text>
+      <text
+         x="376.46417"
+         y="862.45624"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text146">61</text>
+      <text
+         x="693.92847"
          y="448.54999"
-         fill="#000000"
+         fill="#660000"
          fill-rule="nonzero"
          stroke="none"
          stroke-width="1"
@@ -3995,15 +4836,15 @@
          stroke-dasharray="none"
          stroke-dashoffset="0"
          font-family="Arial"
-         font-weight=""
+         font-style="italic"
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text121">78</text>
+         style="mix-blend-mode:normal"
+         id="text147">81</text>
       <text
-         x="377.5195"
-         y="459.79999"
-         fill="#000000"
+         x="819.36938"
+         y="1048.55"
+         fill="#660000"
          fill-rule="nonzero"
          stroke="none"
          stroke-width="1"
@@ -4013,11 +4854,101 @@
          stroke-dasharray="none"
          stroke-dashoffset="0"
          font-family="Arial"
-         font-weight=""
+         font-style="italic"
          font-size="14px"
          text-anchor="middle"
-         style="mix-blend-mode:normal;fill:#800000"
-         id="text122">98</text>
+         style="mix-blend-mode:normal"
+         id="text148">98</text>
+      <text
+         x="174.67821"
+         y="28.549999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text149">99</text>
+      <text
+         x="610.18262"
+         y="838.54999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text150">96</text>
+      <text
+         x="568.76819"
+         y="778.54999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text151">90</text>
+      <text
+         x="425.01361"
+         y="1027.925"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text152">86</text>
+      <text
+         x="769.55957"
+         y="576.04999"
+         fill="#660000"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="Arial"
+         font-style="italic"
+         font-size="14px"
+         text-anchor="middle"
+         style="mix-blend-mode:normal"
+         id="text153">75</text>
     </g>
     <g
        id="branchlengthHolder"
@@ -4034,7 +4965,7 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        id="branchIDHolder"
        fill="none"
@@ -4050,7 +4981,7 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        id="branchRangeHolder"
        fill="none"
@@ -4066,7 +4997,7 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        id="datasetHolder"
        fill="none"
@@ -4082,7 +5013,7 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333" />
+       style="mix-blend-mode:normal" />
     <g
        fill="none"
        fill-rule="nonzero"
@@ -4097,8 +5028,8 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333"
-       id="g122" />
+       style="mix-blend-mode:normal"
+       id="g153" />
     <g
        fill="none"
        fill-rule="nonzero"
@@ -4113,8 +5044,8 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333"
-       id="g123" />
+       style="mix-blend-mode:normal"
+       id="g154" />
     <g
        fill="none"
        fill-rule="nonzero"
@@ -4129,8 +5060,8 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333"
-       id="g124" />
+       style="mix-blend-mode:normal"
+       id="g155" />
     <g
        fill="none"
        fill-rule="nonzero"
@@ -4145,8 +5076,8 @@
        font-weight="normal"
        font-size="12px"
        text-anchor="start"
-       style="mix-blend-mode:normal;fill:#333333"
-       id="g125" />
+       style="mix-blend-mode:normal"
+       id="g156" />
   </g>
   <g
      id="wrapperHolder"
@@ -4164,7 +5095,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="matrix(1.0027542,0,0,1.0658402,22.265265,161.89443)">
+     transform="matrix(1.2556831,0,0,1.2556831,-12.940526,157.21926)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -4180,9 +5111,9 @@
        font-size="none"
        text-anchor="none"
        style="mix-blend-mode:normal"
-       id="g126">
+       id="g157">
       <text
-         x="30.281315"
+         x="64.897682"
          y="62"
          fill="#505050"
          fill-rule="nonzero"
@@ -4197,10 +5128,10 @@
          font-weight="bold"
          font-size="12px"
          text-anchor="start"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.0561px;font-family:Arial;-inkscape-font-specification:Arial;mix-blend-mode:normal"
-         id="text125">Tree scale: 0.1</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8039px;font-family:Arial;-inkscape-font-specification:Arial;mix-blend-mode:normal"
+         id="text156">Tree scale: 0.01</text>
       <path
-         d="M 162.06055,58.4 H 315.51646"
+         d="m 168.73438,58.4 h 36.57473"
          fill="none"
          fill-rule="nonzero"
          stroke="#505050"
@@ -4215,9 +5146,9 @@
          font-size="none"
          text-anchor="none"
          style="mix-blend-mode:normal"
-         id="path125" />
+         id="path156" />
       <path
-         d="m 162.06055,55.4 v 6 m 153.45591,-6 v 6 m -76.72796,-3 v 2"
+         d="m 168.73438,55.4 v 6 m 36.57472,-6 v 6 m -18.28736,-3 v 2"
          fill="none"
          fill-rule="nonzero"
          stroke="#505050"
@@ -4232,45 +5163,77 @@
          font-size="none"
          text-anchor="none"
          style="mix-blend-mode:normal"
-         id="path126" />
+         id="path157" />
     </g>
   </g>
   <text
      xml:space="preserve"
-     id="text2-4"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-3);fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
+     id="text2"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
      x="248.18834"
      y="0"
-     transform="translate(-168.8783,36.737293)"><tspan
-       x="859.58913"
+     transform="translate(-108.53677,41.266557)"><tspan
+       x="845.89121"
        y="55.885477"
        id="tspan4"><tspan
-   style="font-style:italic;font-size:42.6667px;-inkscape-font-specification:'Arial Italic';fill:#a0892c;stroke:none"
-   id="tspan2">Galerina</tspan>
+   style="font-size:42.6667px;fill:#a0892c;stroke:none"
+   id="tspan3">Galerinacea</tspan>
 </tspan><tspan
-       x="719.81666"
+       x="759.82052"
        y="97.176342"
-       id="tspan6"><tspan
-         style="font-style:italic;-inkscape-font-specification:'Arial Italic';fill:#a0892c;stroke:none"
-         id="tspan5">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
+       id="tspan10"><tspan
+         style="fill:#a0892c;stroke:none"
+         id="tspan9">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text20"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(-61.304222,-2021.6712)"><tspan
+     transform="translate(-19.865923,-2022.9639)"><tspan
        x="125.40234"
        y="2200.502"
-       id="tspan8"><tspan
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001039505"
-         id="tspan7">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Galerina, not to provide a formal taxonomy.</tspan></tspan></text>
+       id="tspan11">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Galerinaceae, not to provide a formal taxonomy.</tspan></text>
+  <path
+     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1481,251.34656 V 303.3573"
+     id="path287-4-3" />
   <text
      xml:space="preserve"
-     id="text2"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';white-space:pre;shape-inside:url(#rect2);fill:#2d5016"
-     transform="translate(7.7446091e-7,-4.4420342)"><tspan
-       x="853.16016"
-       y="265.91469"
-       id="tspan9"> ------- Outgroup</tspan></text>
+     id="text287-5-4-6-5-1"
+     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(33.291664,-1786.3935)"><tspan
+       x="1466.7031"
+       y="2071.8076"
+       id="tspan13"><tspan
+         style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
+         id="tspan12">Outgroup</tspan></tspan></text>
+  <path
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1481,318.08278 V 1197.8514"
+     id="path286-2-2-8-6" />
+  <text
+     xml:space="preserve"
+     id="text287-5-4-6-3-4-2-6-1-6-5-1"
+     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(33.174476,-1274.6889)"><tspan
+       x="1466.7031"
+       y="2071.8076"
+       id="tspan15"><tspan
+         style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
+         id="tspan14">Galerina</tspan></tspan></text>
+  <path
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1481,1207.0741 v 192.042"
+     id="path286-2-2-8-6-0" />
+  <text
+     xml:space="preserve"
+     id="text287-5-4-6-3-4-2-6-1-6-5-1-2"
+     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-86);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="translate(33.174476,-772.3935)"><tspan
+       x="1466.7031"
+       y="2071.8076"
+       id="tspan17"><tspan
+         style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
+         id="tspan16">Gymnopilus</tspan></tspan></text>
 </svg>
