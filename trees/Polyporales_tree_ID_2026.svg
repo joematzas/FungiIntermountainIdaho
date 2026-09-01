@@ -5,10 +5,23 @@
    height="1800"
    viewBox="0 0 1800 1800"
    id="svg204"
+   sodipodi:docname="Polyporales_tree_ID_2026.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="Polyporales_tree_ID_2026.svg"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs204">
+    <rect
+       x="1081.9127"
+       y="731.68372"
+       width="360.5495"
+       height="125.29049"
+       id="rect204" />
     <rect
        x="682.39746"
        y="17.349089"
@@ -24,7 +37,7 @@
     <rect
        x="1466.7039"
        y="2047.7224"
-       width="162.80614"
+       width="162.80613"
        height="64.980507"
        id="rect287-1-6-2-9-3" />
     <rect
@@ -36,9 +49,27 @@
     <rect
        x="1466.7039"
        y="2047.7224"
+       width="160.05048"
+       height="41.905823"
+       id="rect287-1-6-2-5-8-6-8-7-2-2-9-8" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="160.05048"
+       height="41.905823"
+       id="rect287-1-6-2-5-8-6-8-7-2-2-9-8-1" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
        width="152.71915"
        height="34.446827"
        id="rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6" />
+    <rect
+       x="1466.7039"
+       y="2047.7224"
+       width="185.67805"
+       height="41.905823"
+       id="rect287-1-6-2-5-8-6-8-7-2-2-9-1-1" />
     <rect
        x="1466.7039"
        y="2047.7224"
@@ -82,8 +113,26 @@
        height="43.507545"
        id="rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6-2-1-3-1-6" />
   </defs>
+  <sodipodi:namedview
+     id="namedview204"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.35574684"
+     inkscape:cx="836.26885"
+     inkscape:cy="872.81169"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg204" />
   <g
-     transform="matrix(0.92171767,0,0,0.92171767,36.461493,262.11628)"
+     transform="matrix(0.92171767,0,0,0.92171767,13.973591,259.30529)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -5637,7 +5686,7 @@
          style="mix-blend-mode:normal"
          id="g160">
         <path
-           d="M 100.06833,188.70667 H 0 M 100.06833,354.91333 V 22.5"
+           d="m 100.06833,188.70667 h -63.4716 m 63.4716,166.20666 V 22.5"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -5652,7 +5701,8 @@
            font-size="none"
            text-anchor="none"
            style="mix-blend-mode:normal"
-           id="path160" />
+           id="path160"
+           sodipodi:nodetypes="cccc" />
       </g>
     </g>
     <g
@@ -6642,174 +6692,195 @@
          id="path204" />
     </g>
   </g>
+  <g
+     id="legendHolder"
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     font-family="sans-serif"
+     font-weight="normal"
+     font-size="12px"
+     text-anchor="start"
+     style="mix-blend-mode:normal"
+     transform="translate(-70.257812,90.708777)" />
   <text
      xml:space="preserve"
      id="text2"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
      x="248.18834"
      y="0"
-     transform="translate(-168.21708,17.111224)"><tspan
+     transform="translate(-145.72918,19.922212)"><tspan
        x="925.07559"
        y="51.068439"
-       id="tspan4"><tspan
+       id="tspan2"><tspan
    style="fill:#a0892c;stroke:none"
-   id="tspan3">Polyporales </tspan>
+   id="tspan1">Polyporales </tspan>
 </tspan><tspan
        x="812.50781"
        y="97.735065"
-       id="tspan7"><tspan
+       id="tspan29"><tspan
          style="font-size:32px;fill:#a0892c;stroke:none"
-         id="tspan5">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
+         id="tspan6">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text20"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(78.589117,-2035.0218)"><tspan
+     transform="translate(103.88801,-2035.0218)"><tspan
        x="125.40234"
        y="2199.2977"
-       id="tspan8">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Polyporales, not to provide a formal taxonomy.</tspan></text>
+       id="tspan30">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Polyporales, not to provide a formal taxonomy.</tspan></text>
   <path
      style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1575.4022,259.02764 v 66.04635"
+     d="M 1572.5912,256.21665 V 322.263"
      id="path287-4-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(124.23593,-1769.7374)"
+     transform="translate(121.42494,-1772.5484)"
      x="64.53714"
      y="0"><tspan
-       x="1473.9594"
+       x="1467.2895"
        y="2069.3991"
-       id="tspan11"><tspan
+       id="tspan33"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan9">Outgroup </tspan><tspan
+         id="tspan31">Outgroup </tspan><tspan
          style="font-size:13.3333px"
-         id="tspan10">(Russulales)</tspan></tspan></text>
+         id="tspan32">(Russulales)</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1575.4022,331.81604 V 1714.1575"
+     d="M 1572.5912,329.00505 V 1711.3465"
      id="path286-2-2-8-6-1" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1-4"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3-8);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(132.44141,-1098.4722)"><tspan
+     transform="translate(129.63042,-1101.2832)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan13"><tspan
+       id="tspan35"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan12">Polyporales</tspan></tspan></text>
+         id="tspan34">Polyporales</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9-0"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-58.09257,-530.95385)"><tspan
+     transform="translate(-86.202447,-533.76484)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan15"><tspan
+       id="tspan37"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan14">Fomitopsidaceae</tspan></tspan></text>
+         id="tspan36">Fomitopsidaceae</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1388.4022,1669.0143 v 45.5303"
+     d="m 1360.2923,1666.2033 v 45.5303"
      id="path286-2-2-8-6-3-6" />
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1388.4022,335.07322 V 1148.998"
+     d="M 1360.2923,332.26223 V 1146.187"
      id="path286-2-2-8-6-09" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-9-7-7"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-8-8-7);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-58.06132,-1334.5307)"><tspan
+     transform="translate(-86.171197,-1337.3417)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan16">Polyporaceae</tspan></text>
+       id="tspan38">Polyporaceae</tspan></text>
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9-0-1"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6-2);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-58.300903,-364.09105)"><tspan
+     transform="translate(-86.41078,-366.90204)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan18"><tspan
+       id="tspan40"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan17">Ischnodermataceae</tspan></tspan></text>
+         id="tspan39">Ischnodermataceae</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1388.4022,1389.6376 V 1660.065"
+     d="M 1360.2923,1386.8266 V 1657.254"
      id="path286-2-2-8-6-09-6" />
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1388.4022,1333.9238 v 45.5303"
+     d="m 1360.2923,1331.1128 v 45.5303"
      id="path286-2-2-8-6-3-6-9" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9-0-1-2"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6-2-1);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-58.540486,-699.18153)"><tspan
+     transform="translate(-86.650363,-701.99252)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan20"><tspan
+       id="tspan42"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan19">Steccherinaceae</tspan></tspan></text>
+         id="tspan41">Steccherinaceae</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1388.4022,1279.0564 v 45.5303"
+     d="m 1360.2923,1276.2454 v 45.5303"
      id="path286-2-2-8-6-3-6-9-2" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9-0-1-2-3"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6-2-1-3);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-58.884235,-754.04892)"><tspan
+     transform="translate(-86.994112,-756.85991)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan22"><tspan
+       id="tspan44"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan21">Climacocystaceae</tspan></tspan></text>
+         id="tspan43">Climacocystaceae</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1388.4022,1219.9238 v 45.5303"
+     d="m 1360.2923,1217.1128 v 45.5303"
      id="path286-2-2-8-6-3-6-9-2-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9-0-1-2-3-8"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6-2-1-3-1);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-58.300903,-818.84445)"><tspan
+     transform="translate(-86.41078,-821.65544)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan24"><tspan
+       id="tspan46"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan23">Irpicaceae</tspan></tspan></text>
+         id="tspan45">Irpicaceae</tspan></tspan></text>
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1388.4022,1190.4431 v 24.0111"
+     d="m 1360.2923,1187.6321 v 24.0111"
      id="path286-2-2-8-6-3-6-9-2-3-9" />
   <path
      style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1388.4022,1161.1505 v 24.0111"
+     d="m 1360.2923,1158.3395 v 24.0111"
      id="path286-2-2-8-6-3-6-9-2-3-9-1" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9-0-1-2-3-8-6"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6-2-1-3-1-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-58.071736,-855.65219)"><tspan
+     transform="translate(-86.181613,-858.46318)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan26"><tspan
+       id="tspan48"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan25">Meruliaceae</tspan></tspan></text>
+         id="tspan47">Meruliaceae</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9-0-1-2-3-8-2"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6-2-1-3-1-6);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-58.06132,-886.27672)"><tspan
+     transform="translate(-86.171197,-889.08771)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan28"><tspan
+       id="tspan50"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan27">Phanarochataceae</tspan></tspan></text>
+         id="tspan49">Phanarochataceae</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text204"
+     style="font-stretch:condensed;font-size:13.8208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Condensed';white-space:pre;shape-inside:url(#rect204)" />
 </svg>
