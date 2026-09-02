@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1700"
-   height="1450"
-   viewBox="0 0 1700 1450"
+   width="1550"
+   height="1350"
+   viewBox="0 0 1550 1350"
    id="svg157"
+   sodipodi:docname="Galerinaceae_tree_ID_2026.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="Galerinaceae_tree_ID_2026.pdf"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -40,8 +47,26 @@
        height="43.038414"
        id="rect287-1-6-2-5-8-6-8-7-2-2-9-86" />
   </defs>
+  <sodipodi:namedview
+     id="namedview157"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.44146608"
+     inkscape:cx="608.20075"
+     inkscape:cy="857.37051"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg157" />
   <g
-     transform="matrix(0.91909727,0,0,0.91909727,77.733155,284.13596)"
+     transform="matrix(0.85716543,0,0,0.85716543,25.042632,260.38254)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -4359,7 +4384,7 @@
          style="mix-blend-mode:normal"
          id="g124">
         <path
-           d="M 116.45214,203.32031 H 0 M 116.45214,391.64063 V 15.00001"
+           d="M 116.45214,203.32031 H 47.567521 M 116.45214,391.64063 V 15.00001"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -4374,7 +4399,8 @@
            font-size="none"
            text-anchor="none"
            style="mix-blend-mode:normal"
-           id="path124" />
+           id="path124"
+           sodipodi:nodetypes="cccc" />
       </g>
     </g>
     <g
@@ -5095,7 +5121,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="matrix(1.2556831,0,0,1.2556831,-12.940526,157.21926)">
+     transform="matrix(1.171071,0,0,1.171071,-25.543459,146.54827)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -5166,74 +5192,91 @@
          id="path157" />
     </g>
   </g>
+  <g
+     id="legendHolder"
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     font-family="sans-serif"
+     font-weight="normal"
+     font-size="12px"
+     text-anchor="start"
+     style="mix-blend-mode:normal"
+     transform="translate(-70.257812,-53.375)" />
   <text
      xml:space="preserve"
      id="text2"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
      x="248.18834"
      y="0"
-     transform="translate(-108.53677,41.266557)"><tspan
+     transform="matrix(0.93261667,0,0,0.93261667,-139.61509,31.613312)"><tspan
        x="845.89121"
        y="55.885477"
-       id="tspan4"><tspan
+       id="tspan2"><tspan
    style="font-size:42.6667px;fill:#a0892c;stroke:none"
-   id="tspan3">Galerinacea</tspan>
+   id="tspan1">Galerinacea</tspan>
 </tspan><tspan
        x="759.82052"
        y="97.176342"
-       id="tspan10"><tspan
+       id="tspan6"><tspan
          style="fill:#a0892c;stroke:none"
-         id="tspan9">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
+         id="tspan5">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text20"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(-19.865923,-2022.9639)"><tspan
+     transform="matrix(0.93261667,0,0,0.93261667,-56.919176,-1886.7268)"><tspan
        x="125.40234"
        y="2200.502"
-       id="tspan11">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Galerinaceae, not to provide a formal taxonomy.</tspan></text>
+       id="tspan7">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Galerinaceae, not to provide a formal taxonomy.</tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1481,251.34656 V 303.3573"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.86523;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1333.7527,229.8026 v 48.50609"
      id="path287-4-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(33.291664,-1786.3935)"><tspan
+     transform="matrix(0.93261667,0,0,0.93261667,-16.404244,-1670.6277)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan13"><tspan
+       id="tspan9"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan12">Outgroup</tspan></tspan></text>
+         id="tspan8">Outgroup</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1481,318.08278 V 1197.8514"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.86523;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1333.7527,292.04191 V 1112.5288"
      id="path286-2-2-8-6" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(33.174476,-1274.6889)"><tspan
+     transform="matrix(0.93261667,0,0,0.93261667,-16.513535,-1193.4035)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan15"><tspan
+       id="tspan11"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan14">Galerina</tspan></tspan></text>
+         id="tspan10">Galerina</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1481,1207.0741 v 192.042"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.86523;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1333.7527,1121.1301 v 179.1015"
      id="path286-2-2-8-6-0" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-2"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-86);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(33.174476,-772.3935)"><tspan
+     transform="matrix(0.93261667,0,0,0.93261667,-16.513535,-724.95444)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan17"><tspan
+       id="tspan13"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan16">Gymnopilus</tspan></tspan></text>
+         id="tspan12">Gymnopilus</tspan></tspan></text>
 </svg>
