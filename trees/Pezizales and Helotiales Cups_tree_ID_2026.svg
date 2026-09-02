@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1800"
-   height="2400"
-   viewBox="0 0 1800 2400.0001"
+   width="1600"
+   height="2100"
+   viewBox="0 0 1600 2100.0001"
    id="svg269"
    sodipodi:docname="Pezizales and Helotiales Cups_tree_ID_2026.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
@@ -170,14 +170,14 @@
     <inkscape:page
        x="0"
        y="0"
-       width="1800"
-       height="2400"
+       width="1600"
+       height="2100"
        id="page2"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
   <g
-     transform="matrix(0.95703907,0,0,0.95703907,-61.435353,323.3255)"
+     transform="matrix(0.85493006,0,0,0.85493006,-51.804578,298.02102)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -8622,7 +8622,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="matrix(1.6543458,0,0,1.6543458,-80.112104,161.51478)">
+     transform="matrix(1.4778394,0,0,1.4778394,-68.488657,153.4743)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -8699,306 +8699,304 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
      x="248.18834"
      y="0"
-     transform="translate(-142.03767,62.264843)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-130.19631,45.646338)"><tspan
        x="798.29185"
        y="51.068439"
-       id="tspan4"><tspan
+       id="tspan2"><tspan
    style="fill:#a0892c;stroke:none"
-   id="tspan3">Pezizales and Helotiales Cups </tspan>
+   id="tspan1">Pezizales and Helotiales Cups </tspan>
 </tspan><tspan
        x="812.50781"
        y="97.735065"
-       id="tspan7"><tspan
+       id="tspan49"><tspan
          style="font-size:32px;fill:#a0892c;stroke:none"
-         id="tspan5">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
+         id="tspan6">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text20"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.911px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(8.5541001,-1988.1883)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-11.644287,-1795.6223)"><tspan
        x="125.40234"
-       y="2199.2977"
-       id="tspan9"><tspan
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010824203 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0001039505"
-         id="tspan8">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Pezizales and Helotiales Cups, not to provide a formal taxonomy.</tspan></tspan></text>
+       y="2199.8195"
+       id="tspan50">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Pezizales and Helotiales Cups, not to provide a formal taxonomy.</tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1597.3891,319.09549 v 43.9665"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1430.0356,294.24231 v 39.2756"
      id="path287-4-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(151.49219,-1715.6835)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,138.40517,-1523.4407)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan11"><tspan
+       id="tspan52"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan10">Outgroup</tspan></tspan></text>
+         id="tspan51">Outgroup</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,1087.7724 v 24.7814"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,980.90705 v 22.13735"
      id="path287-4-3-2" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1-4"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3-8);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="matrix(1.000825,0,0,1,-107.93659,-962.41421)"><tspan
+     transform="matrix(0.89404436,0,0,0.89330739,-93.344477,-850.53976)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan13"><tspan
+       id="tspan54"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan12">Pulvinulaceae</tspan></tspan></text>
+         id="tspan53">Pulvinulaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1597.3891,931.60172 V 2300.1433"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1430.0356,841.39865 V 2063.927"
      id="path286-2-2-8-6-1" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-7-3"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-5-4);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(152.44141,-472.91236)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,139.25312,-413.26415)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan15"><tspan
+       id="tspan56"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan14">Pezizales</tspan></tspan></text>
+         id="tspan55">Pezizales</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1335.8327,930.44063 V 1076.0514"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1196.3853,840.36144 V 970.43655"
      id="path286-2-2-8-6" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-108.48437,-1053.6318)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-93.833809,-932.02511)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan17"><tspan
+       id="tspan58"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan16">Caloscyphaceae</tspan></tspan></text>
+         id="tspan57">Caloscyphaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,1120.4983 v 21.578"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,1010.1413 v 19.2759"
      id="path287-4-3-2-1" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1-4-4"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3-8-7);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="matrix(1.000825,0,0,1,-108.76933,-930.21938)"><tspan
+     transform="matrix(0.89404436,0,0,0.89330739,-94.08837,-821.77989)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan19"><tspan
+       id="tspan60"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan18">Pseudombrophilaceae</tspan></tspan></text>
+         id="tspan59">Pseudombrophilaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,1147.5414 v 45.6038"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,1034.2992 v 40.7381"
      id="path287-4-3-2-1-2" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-109.15234,-890.54537)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-94.430517,-786.33879)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan21"><tspan
+       id="tspan62"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan20">Tarzetaceae</tspan></tspan></text>
+         id="tspan61">Tarzetaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,1197.2121 v 337.8443"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,1078.6703 v 301.7989"
      id="path286-2-2-8-6-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-3"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-1);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-107.55859,-707.36248)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-93.006802,-622.70017)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan23"><tspan
+       id="tspan64"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan22">Pyronemataceae</tspan></tspan></text>
+         id="tspan63">Pyronemataceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,1540.8793 v 45.6038"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,1385.6708 v 40.7382"
      id="path287-4-3-2-1-2-8" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-108.50781,-498.80917)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-93.854753,-436.39797)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan25"><tspan
+       id="tspan66"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan24">Otidiaceae</tspan></tspan></text>
+         id="tspan65">Otidiaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,1594.5069 v 58.4176"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,1433.5768 v 52.1848"
      id="path287-4-3-2-1-2-8-1" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-108.09766,-436.92641)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-93.488361,-381.11764)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan27"><tspan
+       id="tspan68"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan26">Sarcoscyphaceae</tspan></tspan></text>
+         id="tspan67">Sarcoscyphaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1335.8327,1658.8396 V 1775.646"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,1491.0457 v 104.344"
      id="path286-2-2-8-6-0" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9-6"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-2);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-108.09766,-351.92641)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-93.488361,-305.18651)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan29"><tspan
+       id="tspan70"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan28">Sarcosomataceae</tspan></tspan></text>
+         id="tspan69">Sarcosomataceae</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-7-9-0"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-11-9-6);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-107.55859,-35.645336)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-93.006802,-22.650287)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan31"><tspan
+       id="tspan72"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan30">Pezizaceae</tspan></tspan></text>
+         id="tspan71">Pezizaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,1784.9052 v 507.627"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,1603.661 v 453.4669"
      id="path286-2-2-8-6-3-6" />
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1335.8327,377.49452 V 447.8064"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,346.4106 v 62.81012"
      id="path286-2-2-8-6-0-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-3"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-8);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-107.57031,-1652.2609)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-93.017278,-1466.7849)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan33"><tspan
+       id="tspan74"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan32">Mitrulaceae</tspan></tspan></text>
+         id="tspan73">Mitrulaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,458.63819 v 24.7814"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,418.89684 v 22.13741"
      id="path287-4-3-2-18" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1-4-49"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3-8-6);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="matrix(1.000825,0,0,1,-108.73414,-1594.7429)"><tspan
+     transform="matrix(0.89404436,0,0,0.89330739,-94.05693,-1415.4036)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan35"><tspan
+       id="tspan76"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan34">Hyaloscyphaceae</tspan></tspan></text>
+         id="tspan75">Hyaloscyphaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,491.6382 v 36.02017"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,448.376 v 32.17707"
      id="path287-4-3-2-1-2-2" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-9"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-8);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-109.15234,-1556.0322)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-94.430517,-1380.8231)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan37"><tspan
+       id="tspan78"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan36">Tricladiaceae</tspan></tspan></text>
+         id="tspan77">Tricladiaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,531.69276 v 45.6038"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,484.15702 v 40.73821"
      id="path287-4-3-2-1-2-2-0" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-9-7"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-8-8);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-107.48828,-1506.394)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-92.943998,-1336.4809)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan39"><tspan
+       id="tspan80"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan38">Lachnaceae</tspan></tspan></text>
+         id="tspan79">Lachnaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1597.3891,371.7106 V 919.25454"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1430.0356,341.24378 V 830.36883"
      id="path286-2-2-8-6-1-4" />
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1335.8327,587 V 702.2626"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1196.3853,533.56339 V 636.52832"
      id="path286-2-2-8-6-09" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-9-7-7"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-8-8-7);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-107.52344,-1425.1512)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-92.975407,-1263.9062)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan40">Helotiaceae</tspan></text>
+       id="tspan81">Helotiaceae</tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,706.84638 v 24.7814"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,640.62305 v 22.1374"
      id="path287-4-3-2-18-7" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1-4-49-5"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3-8-6-6);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="matrix(1.000825,0,0,1,-108.76933,-1343.3401)"><tspan
+     transform="matrix(0.89404436,0,0,0.89330739,-94.08837,-1190.8237)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan42"><tspan
+       id="tspan83"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan41">Pezizellaceae</tspan></tspan></text>
+         id="tspan82">Pezizellaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1335.8327,735.44365 v 45.6038"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1196.3853,666.1692 v 40.73821"
      id="path287-4-3-2-1-2-2-0-1" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-9-7-4"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-8-8-0);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-108.48437,-1302.6431)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-93.833809,-1154.4688)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan44"><tspan
+       id="tspan85"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan43">Cenangiaceae</tspan></tspan></text>
+         id="tspan84">Cenangiaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1335.8327,789.19454 V 923.6244"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78661;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1196.3853,714.18527 V 834.27245"
      id="path286-2-2-8-6-09-7" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-9-9-7-4-3"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-1-8-8-0-7);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-108.09766,-1204.08)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,-93.488361,-1066.4216)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan46"><tspan
+       id="tspan87"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan45">Sclerotiniaceae</tspan></tspan></text>
+         id="tspan86">Sclerotiniaceae</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-7-3-8"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-5-4-8);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(152.47656,-1423.7894)"><tspan
+     transform="matrix(0.89330739,0,0,0.89330739,139.28451,-1262.6896)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan48"><tspan
+       id="tspan89"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan47">Helotiales</tspan></tspan></text>
+         id="tspan88">Helotiales</tspan></tspan></text>
 </svg>
