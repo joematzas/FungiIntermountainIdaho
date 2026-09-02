@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1700"
-   height="1200"
-   viewBox="0 0 1699.9999 1200"
+   width="1500"
+   height="1000"
+   viewBox="0 0 1499.9999 1000"
    id="svg100"
+   sodipodi:docname="Amanitaceae_tree_ID_2026.svg"
+   inkscape:export-filename="Amanitaceae_tree_ID_2026.svg"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.6725"
+     inkscape:cx="806.69145"
+     inkscape:cy="600"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg100" />
   <defs
      id="defs100">
     <rect
@@ -17,7 +42,7 @@
        id="rect20" />
   </defs>
   <g
-     transform="matrix(0.96273786,0,0,1.1109676,65.695801,246.30252)"
+     transform="matrix(0.82721992,0,0,0.95458439,65.078312,217.5497)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -1974,12 +1999,17 @@
            text-anchor="start"
            style="white-space:pre;inline-size:545.119;display:inline;mix-blend-mode:normal;fill:#4d4d4d"
            id="text53"
-           xml:space="preserve"><tspan
+           xml:space="preserve"
+           inkscape:export-filename="text53.svg"
+           inkscape:export-xdpi="500"
+           inkscape:export-ydpi="500"><tspan
              x="142.43663"
              y="6"
-             id="tspan6">Pluteus fulvibadius iNat182842325 Idaho<tspan
+             id="tspan4">Pluteus fulvibadius iNat182842325 Idaho<tspan
    style="fill:#225500"
-   id="tspan5"> - Outgroup</tspan></tspan></text>
+   id="tspan2">    </tspan><tspan
+   style="font-size:24.0072px"
+   id="tspan3">- Outgroup</tspan></tspan></text>
         <path
            d="M 137.43663,0 H 68.71831"
            fill="none"
@@ -3383,7 +3413,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal;fill:#4d4d4d"
-     transform="matrix(1,0,0,1.7304232,-6.8968392,111.56931)">
+     transform="matrix(0.85923694,0,0,1.4868435,2.7040336,101.78195)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -3460,24 +3490,24 @@
      x="1030.0389"
      y="57.66206"
      id="text6"
-     transform="translate(-134.83922,-15.123498)"><tspan
+     transform="matrix(0.85923694,0,0,0.85923694,-146.4835,-18.973102)"><tspan
        x="1030.0389"
        y="57.66206"
-       id="tspan9">
+       id="tspan5">
 </tspan><tspan
        x="1030.0389"
-       y="107.00336"
-       id="tspan15"><tspan
-         style="font-style:italic;font-stretch:condensed;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';stroke:none"
-         id="tspan13">Amanitacea</tspan><tspan
+       y="102.18632"
+       id="tspan8"><tspan
+         style="font-style:italic;font-stretch:condensed;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';stroke:none"
+         id="tspan6">Amanitacea</tspan><tspan
          style="font-style:italic;font-stretch:condensed;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan14">
+         id="tspan7">
 </tspan></tspan><tspan
        x="1030.0389"
-       y="150.99544"
-       id="tspan17"><tspan
+       y="144.32869"
+       id="tspan11"><tspan
    style="font-style:italic;font-stretch:condensed;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';stroke:none"
-   id="tspan16">Phylogenetic Tree - August, 2026.</tspan>
+   id="tspan10">Phylogenetic Tree - August, 2026.</tspan>
 </tspan></text>
   <text
      xml:space="preserve"
@@ -3485,10 +3515,10 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(-18.83722,-2027.7647)"><tspan
+     transform="matrix(0.85923694,0,0,0.85923694,-16.477516,-1751.2827)"><tspan
        x="125.40234"
        y="2200.502"
-       id="tspan19"><tspan
+       id="tspan13"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001039505"
-         id="tspan18">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Amanitaceae, not to provide a formal taxonomy.</tspan></tspan></text>
+         id="tspan12">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Amanitaceae, not to provide a formal taxonomy.</tspan></tspan></text>
 </svg>
