@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1800"
-   height="2350"
-   viewBox="0 0 1800 2350"
+   width="1500"
+   height="2100"
+   viewBox="0 0 1500 2100"
    id="svg266"
+   sodipodi:docname="Psathyrellaceae_tree_ID_2026.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="Psathyrellaceae_tree_ID_2026.jpg"
+   inkscape:export-xdpi="506"
+   inkscape:export-ydpi="506"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.34340426"
+     inkscape:cx="901.27014"
+     inkscape:cy="1175"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg266" />
   <defs
      id="defs266">
     <rect
@@ -65,7 +90,7 @@
        id="rect287-1-6-2-9-9" />
   </defs>
   <g
-     transform="matrix(0.97476215,0,0,0.97476215,73.003229,233.74952)"
+     transform="matrix(0.86038388,0,0,0.86038388,-28.974654,235.80121)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -7439,7 +7464,7 @@
          style="mix-blend-mode:normal"
          id="g212">
         <path
-           d="M 227.31057,417.57111 H 0 m 227.31057,402.5711 V 15"
+           d="M 227.31057,417.57111 H 121.84412 m 105.46645,402.5711 V 15"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -7454,7 +7479,8 @@
            font-size="none"
            text-anchor="none"
            style="mix-blend-mode:normal"
-           id="path212" />
+           id="path212"
+           sodipodi:nodetypes="cccc" />
       </g>
     </g>
     <g
@@ -8553,7 +8579,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="translate(43.382742,159.07143)">
+     transform="matrix(0.88266033,0,0,0.88266033,14.768996,152.41373)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -8627,129 +8653,129 @@
   <text
      xml:space="preserve"
      id="text2"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
      x="248.18834"
      y="0"
-     transform="translate(-7.3494771,27.354636)"><tspan
-       x="815.74535"
-       y="55.885477"
-       id="tspan2"><tspan
-   style="font-size:42.6667px;fill:#a0892c;stroke:none"
-   id="tspan1">Psathyrellaceae</tspan>
+     transform="matrix(0.88266033,0,0,0.88266033,-88.25072,21.592408)"><tspan
+       x="816.82569"
+       y="55.551027"
+       id="tspan21"><tspan
+   style="font-size:42.2964px;fill:#a0892c;stroke:none"
+   id="tspan3">Psathyrellaceae</tspan>
 </tspan><tspan
-       x="759.82052"
-       y="97.176342"
-       id="tspan4"><tspan
-         style="fill:#a0892c;stroke:none"
-         id="tspan3">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
+       x="735.83741"
+       y="100.23552"
+       id="tspan23"><tspan
+         style="font-size:33.2329px;fill:#a0892c;stroke:none"
+         id="tspan22">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1480.6159,797.29304 V 2290.3629"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.76532;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1213.4692,733.21872 V 2051.0924"
      id="path287-4-1" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-5"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-7);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(41.962214,-547.95783)"><tspan
+     transform="matrix(0.88266033,0,0,0.88266033,-56.373327,-454.18087)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan6"><tspan
+       id="tspan25"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan5">Psathyrella</tspan></tspan></text>
+         id="tspan24">Psathyrella</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1480.6159,619.13612 V 783.60134"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.76532;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1213.4692,575.96666 V 721.13359"
      id="path287-9-5-4" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-31"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(42.001277,-1762.895)"><tspan
+     transform="matrix(0.88266033,0,0,0.88266033,-56.338847,-1526.5577)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan8"><tspan
+       id="tspan27"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan7">Homophron</tspan></tspan></text>
+         id="tspan26">Homophron</tspan></tspan></text>
   <path
-     style="fill:none;stroke:#2d5016;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1480.6159,224.82404 v 43.91031"
+     style="fill:none;stroke:#2d5016;stroke-width:1.76532;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1213.4692,227.92304 v 38.75788"
      id="path287-4-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3);display:inline;fill:#2d5016;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(40.907525,-1816.7729)"><tspan
+     transform="matrix(0.88266033,0,0,0.88266033,-57.304258,-1574.1136)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan10"><tspan
+       id="tspan29"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan9">Outgroup</tspan></tspan></text>
+         id="tspan28">Outgroup</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text20"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.6376px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(67.949639,-2033.0021)"><tspan
+     transform="matrix(0.88266033,0,0,0.88266033,-62.555456,-1797.0027)"><tspan
        x="125.40234"
-       y="2200.502"
-       id="tspan12"><tspan
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001039505"
-         id="tspan11">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Psahyrellaceae, not to provide a formal taxonomy.</tspan></tspan></text>
+       y="2201.3789"
+       id="tspan31"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011348724 0 0 0 0 0.00011348724"
+         id="tspan30">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Psahyrellaceae, not to provide a formal taxonomy.</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1480.6159,543.30332 v 63.55661"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.76532;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1213.4692,509.03207 v 56.09889"
      id="path287-9-5-4-5" />
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1480.6159,396.11369 V 533.3496"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.76532;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1213.4692,379.11362 V 500.24631"
      id="path287-9-5-4-1" />
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1480.6159,335.62059 v 49.1411"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.76532;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1213.4692,325.71876 v 43.37489"
      id="path287-9-5-4-5-1" />
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1480.6159,276.52578 v 49.14109"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.76532;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1213.4692,273.55812 v 43.37489"
      id="path287-9-5-4-5-5" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-31-6"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-2);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(42.040339,-1703.895)"><tspan
+     transform="matrix(0.88266033,0,0,0.88266033,-56.304369,-1474.4807)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan14"><tspan
+       id="tspan33"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan13">Lacrymaria</tspan></tspan></text>
+         id="tspan32">Lacrymaria</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287-5-4-6-31-2"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-23);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(40.933567,-1604.5695)"><tspan
+     transform="matrix(0.88266033,0,0,0.88266033,-57.281273,-1386.81)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan16"><tspan
+       id="tspan35"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan15">Coprinopsis</tspan></tspan></text>
+         id="tspan34">Coprinopsis</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287-5-4-6-31-1"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-7);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(40.933567,-1488.5695)"><tspan
+     transform="matrix(0.88266033,0,0,0.88266033,-57.281273,-1284.4214)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan18"><tspan
+       id="tspan37"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan17">Coprinellus</tspan></tspan></text>
+         id="tspan36">Coprinellus</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287-5-4-6-31-4"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(41.923151,-1370.895)"><tspan
+     transform="matrix(0.88266033,0,0,0.88266033,-56.407806,-1180.5548)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan20"><tspan
+       id="tspan39"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan19">Ephemerocybe</tspan></tspan></text>
+         id="tspan38">Ephemerocybe</tspan></tspan></text>
 </svg>
