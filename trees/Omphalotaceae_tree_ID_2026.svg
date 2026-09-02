@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1700"
-   height="900"
-   viewBox="0 0 1699.9999 900"
+   width="1500"
+   height="700"
+   viewBox="0 0 1499.9999 700"
    id="svg83"
+   sodipodi:docname="Omphalotaceae_tree_ID_2026.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="Omphalotaceae_tree_ID_2026.jpg"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.63403908"
+     inkscape:cx="849.31673"
+     inkscape:cy="450.2877"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg83" />
   <defs
      id="defs83">
     <rect
@@ -42,12 +67,12 @@
     <rect
        x="125.40273"
        y="2183.6431"
-       width="1602.9062"
-       height="62.03989"
+       width="1666.9889"
+       height="63.870823"
        id="rect20" />
   </defs>
   <g
-     transform="matrix(0.99809779,0,0,0.99809779,-68.229855,266.81553)"
+     transform="matrix(0.85977406,0,0,0.85977406,-55.583538,176.65304)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -2736,7 +2761,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="matrix(1.1785159,0,0,1.1785159,-16.128857,158.13462)">
+     transform="matrix(1.0151885,0,0,1.0151885,-5.9715091,595.62063)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -2813,82 +2838,84 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
      x="248.18834"
      y="0"
-     transform="translate(-57.143692,23.86828)"><tspan
-       x="826.43286"
-       y="55.885477"
-       id="tspan4"><tspan
-   style="font-size:42.6667px;fill:#a0892c;stroke:none"
-   id="tspan3">Omphalotacea</tspan>
+     transform="matrix(0.86141264,0,0,0.86141264,-49.188156,16.268098)"><tspan
+       x="824.63797"
+       y="56.49332"
+       id="tspan2"><tspan
+   style="font-size:43.3397px;fill:#a0892c;stroke:none"
+   id="tspan1">Omphalotacea</tspan>
 </tspan><tspan
-       x="759.82052"
-       y="97.176342"
-       id="tspan8"><tspan
-         style="fill:#a0892c;stroke:none"
-         id="tspan7">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
+       x="730.79613"
+       y="102.27999"
+       id="tspan6"><tspan
+         style="font-size:34.0526px;fill:#a0892c;stroke:none"
+         id="tspan5">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1472.9914,480.7655 V 857.5928"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.72283;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1272.0439,360.95225 v 324.6038"
      id="path286-2-2-8-6" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1"
-     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(23.165856,-1415.5108)"><tspan
+     style="font-size:24.7655px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="matrix(0.86141264,0,0,0.86141264,23.145884,-1272.5241)"><tspan
        x="1466.7031"
-       y="2071.8076"
-       id="tspan10"><tspan
+       y="2070.0905"
+       id="tspan8"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan9">Gymnopus</tspan></tspan></text>
+         id="tspan7">Gymnopus</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1472.9914,249.24655 v 31.18833"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.72283;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1272.0439,161.5189 v 26.86602"
      id="path287-4-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1"
-     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(23.283044,-1799.4477)"><tspan
+     style="font-size:24.7655px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="matrix(0.86141264,0,0,0.86141264,23.246832,-1603.2522)"><tspan
        x="1466.7031"
-       y="2071.8076"
-       id="tspan12"><tspan
+       y="2070.0905"
+       id="tspan10"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan11">Outgroup</tspan></tspan></text>
+         id="tspan9">Outgroup</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1472.9914,338.73102 V 473.69801"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.72283;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1272.0439,238.60196 V 354.86423"
      id="path286-2-2-8-6-2" />
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1472.9914,289.82241 v 34.05838"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.72283;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1272.0439,196.47146 v 29.33832"
      id="path286-2-2-8-6-2-5" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-7"
-     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-5);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(24.259608,-1667.8363)"><tspan
+     style="font-size:24.7655px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-5);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="matrix(0.86141264,0,0,0.86141264,24.088056,-1489.8805)"><tspan
        x="1466.7031"
-       y="2071.8076"
-       id="tspan14"><tspan
+       y="2070.0905"
+       id="tspan12"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan13">Rhodocollybia</tspan></tspan></text>
+         id="tspan11">Rhodocollybia</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-6"
-     style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-52);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(23.309086,-1757.5108)"><tspan
+     style="font-size:24.7655px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-52);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
+     transform="matrix(0.86141264,0,0,0.86141264,23.269265,-1567.1273)"><tspan
        x="1466.7031"
-       y="2071.8076"
-       id="tspan16"><tspan
+       y="2070.0905"
+       id="tspan14"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan15">Connopus</tspan></tspan></text>
+         id="tspan13">Connopus</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text20"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.122px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(4.2547477,-2030.5139)"><tspan
+     transform="matrix(0.86141264,0,0,0.86141264,-70.426687,-1758.1342)"><tspan
        x="125.40234"
-       y="2200.502"
-       id="tspan17">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Omphalotaceae, not to provide a formal taxonomy.</tspan></text>
+       y="2201.8164"
+       id="tspan16"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010919571 0 0 0 0 0 0 -0.00010919571 0 0 0 0 0 0 0 0 0 0 -0.00010919571 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010919571 0 0 0 0 0 -0.00010919571"
+         id="tspan15">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Omphalotaceae, not to provide a formal taxonomy.</tspan></tspan></text>
 </svg>
