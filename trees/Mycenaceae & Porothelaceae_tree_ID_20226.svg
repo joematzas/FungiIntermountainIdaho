@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1850"
-   height="3800"
-   viewBox="0 0 1850 3800.0001"
+   width="1650"
+   height="3250"
+   viewBox="0 0 1650 3250.0001"
    id="svg462"
+   sodipodi:docname="Mycenaceae &amp; Porothelaceae_tree_ID_20226.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="Mycenaceae &amp; Porothelaceae_tree_ID_20226.jpg"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.42473684"
+     inkscape:cx="924.10161"
+     inkscape:cy="917.03841"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg462" />
   <defs
      id="defs462">
     <rect
@@ -18,8 +43,8 @@
     <rect
        x="125.40273"
        y="2183.6431"
-       width="1602.9062"
-       height="62.03989"
+       width="1773.24"
+       height="42.808659"
        id="rect20" />
     <rect
        x="1466.7039"
@@ -191,7 +216,7 @@
        id="rect287-1-6-2-5-1" />
   </defs>
   <g
-     transform="matrix(0.95327465,0,0,0.95327465,41.47799,332.71966)"
+     transform="matrix(0.81693786,0,0,0.81693786,46.11862,272.63213)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -14598,7 +14623,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="matrix(1.6338584,0,0,1.6338584,-44.894795,169.84862)">
+     transform="matrix(1.4001849,0,0,1.4001849,-44.381972,137.76361)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -14675,423 +14700,423 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
      x="248.18834"
      y="0"
-     transform="translate(-36.356773,52.382162)"><tspan
-       x="706.80777"
-       y="55.885477"
-       id="tspan2"><tspan
-   style="font-size:42.6667px;fill:#a0892c;stroke:none"
-   id="tspan1">Mycenaceae &amp; Porothelaceae</tspan>
+     transform="matrix(0.85698057,0,0,0.85698057,-18.229861,39.451534)"><tspan
+       x="701.89999"
+       y="56.695725"
+       id="tspan64"><tspan
+   style="font-size:43.5638px;fill:#a0892c;stroke:none"
+   id="tspan3">Mycenaceae &amp; Porothelaceae</tspan>
 </tspan><tspan
-       x="759.82052"
-       y="97.176342"
-       id="tspan4"><tspan
-         style="fill:#a0892c;stroke:none"
-         id="tspan3">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
+       x="729.7131"
+       y="102.71916"
+       id="tspan66"><tspan
+         style="font-size:34.2287px;fill:#a0892c;stroke:none"
+         id="tspan65">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text20"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.2261px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(-22.544833,-2005.1783)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,-48.772479,-1719.129)"><tspan
        x="125.40234"
-       y="2200.502"
-       id="tspan5">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Mycenaceae &amp; Porothelaceae, not to provide a formal taxonomy.</tspan></text>
+       y="2201.9105"
+       id="tspan67">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Mycenaceae &amp; Porothelaceae, not to provide a formal taxonomy.</tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1655.6964,375.4147 v 892.9811"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1429.4724,309.22095 V 1074.4884"
      id="path286-9" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(207.13782,-1273.9397)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,188.08588,-1104.2437)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan7"><tspan
+       id="tspan69"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan6">Porothelaceae</tspan></tspan></text>
+         id="tspan68">Porothelaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1655.6964,328 v 37.50341"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1429.4724,268.58747 v 32.13969"
      id="path287-4-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(206.1886,-1716.4657)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,187.27241,-1483.4799)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan9"><tspan
+       id="tspan71"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan8">Outgroup</tspan></tspan></text>
+         id="tspan70">Outgroup</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1655.6964,1543.9844 v 2198.225"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1429.4724,1310.6625 V 3194.4986"
      id="path286-9-5" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-1"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-4);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(207.1261,501.30646)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,188.07583,417.10774)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan11"><tspan
+       id="tspan73"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan10">Mycenaceae</tspan></tspan></text>
+         id="tspan72">Mycenaceae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2.00001;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,1641.5845 v 51.5656"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71397;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,1394.3039 v 44.1907"
      id="path287-9-8-6-7" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-19"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-7);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(5.6406245,-392.90805)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,15.406694,-349.21673)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan13"><tspan
+       id="tspan75"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan12">Amictae</tspan></tspan></text>
+         id="tspan74">Amictae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1655.6964,1284.4482 v 247.3252"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1429.4724,1088.245 v 211.9529"
      id="path286-9-2-2" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-1-8"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-4-1);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(195.17297,-663.66079)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,177.83223,-581.24656)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan16"><tspan
+       id="tspan78"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan14">Hemimycenacea</tspan><tspan
+         id="tspan76">Hemimycenacea</tspan><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan15">e</tspan></tspan></text>
+         id="tspan77">e</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,2833.5759 v 45.0376"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,2415.8173 v 38.5964"
      id="path287-9-86-5" />
   <text
      xml:space="preserve"
      id="text287-7-0-0"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-5-5-0);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.5364595,790.16008)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.460446,664.64968)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan18"><tspan
+       id="tspan80"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan17">Polyadelphia
+         id="tspan79">Polyadelphia
 </tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,2735.7707 v 90.338"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,2332.0002 v 77.4179"
      id="path287-9-86" />
   <text
      xml:space="preserve"
      id="text287-7-0"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-5-5);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.5052096,714.25609)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.433665,599.60144)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan20"><tspan
+       id="tspan82"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan19">Filipedes</tspan></tspan></text>
+         id="tspan81">Filipedes</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,2700.0095 v 24.9171"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,2301.3535 v 21.3535"
      id="path287-9-5-9" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.0572936,653.82773)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.04981,547.81551)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan23"><tspan
+       id="tspan85"><tspan
    style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-   id="tspan21">Sup</tspan>i<tspan
+   id="tspan83">Sup</tspan>i<tspan
    style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-   id="tspan22">nae</tspan></tspan></text>
+   id="tspan84">nae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,1584.3725 v 48.972"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,1345.2743 v 41.968"
      id="path287-9-8-6" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(3.7135442,-448.16687)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,13.755223,-396.57246)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan25"><tspan
+       id="tspan87"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan24">Calodontes</tspan></tspan></text>
+         id="tspan86">Calodontes</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,1699.7397 v 524.0035"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,1444.1417 v 449.0609"
      id="path286-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-4"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-3);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.5052096,-120.7467)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.433665,-115.97974)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan27"><tspan
+       id="tspan89"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan26">Fragilipides</tspan></tspan></text>
+         id="tspan88">Fragilipides</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,2236.6704 v 453.6973"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,1904.2809 v 388.8098"
      id="path287-4-1" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-5"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-7);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.4739596,338.85617)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.406884,277.891)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan29"><tspan
+       id="tspan91"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan28">Rubromarginata</tspan></tspan></text>
+         id="tspan90">Rubromarginata</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,3045.1432 v 30.7001"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,2597.1264 v 26.3094"
      id="path287-9-5" />
   <text
      xml:space="preserve"
      id="text287-5-4-6"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.5052096,998.40917)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.433665,843.11511)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan31"><tspan
+       id="tspan93"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan30">Fuligineae</tspan></tspan></text>
+         id="tspan92">Fuligineae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1336,1580.2809 V 3719.2421"
+     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1155.4988,1341.7679 V 3174.8161"
      id="path286-9-5-5" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-4-8"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-3-0);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-112.57031,316.64475)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,-85.897781,258.85624)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan33"><tspan
+       id="tspan95"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan32">Mycena</tspan></tspan></text>
+         id="tspan94">Mycena</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1336,3724.3724 v 30.7001"
+     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1155.4988,3179.2126 v 26.3094"
      id="path287-9-5-5" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-0"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-8);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(-112.55859,1677.6384)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,-85.887737,1425.2014)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan35"><tspan
+       id="tspan97"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan34">Panellus</tspan></tspan></text>
+         id="tspan96">Panellus</tspan></tspan></text>
   <path
-     style="fill:none;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1483,1549.7966 v 30.7001"
+     style="fill:none;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1281.475,1315.6434 v 26.3094"
      id="path287-9-5-5-8" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-0-9"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-8-1);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(27.371094,-498.53938)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,34.029284,-439.74072)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan37"><tspan
+       id="tspan99"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan36">Roridomyces</tspan></tspan></text>
+         id="tspan98">Roridomyces</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1483.8009,1307.6931 v 230.9156"
+     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1282.1613,1108.1654 v 197.8902"
      id="path287-9-5-5-6" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-0-1"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-8-0);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(27.476562,-646.1409)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,34.119668,-566.23236)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan39"><tspan
+       id="tspan101"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan38">Hemimycena</tspan></tspan></text>
+         id="tspan100">Hemimycena</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1486,668.17759 V 801.38801"
+     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1284.0459,560.11306 V 674.2718"
      id="path287-9-5-5-6-8" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-0-1-8"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-8-0-3);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(27.476562,-1332.2194)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,34.119668,-1154.1883)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan41"><tspan
+       id="tspan103"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan40">Hydropus</tspan></tspan></text>
+         id="tspan102">Hydropus</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1486,812.35518 V 1060.8897"
+     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1284.0459,683.67045 V 896.65971"
      id="path287-9-5-5-6-8-4" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-0-1-8-0"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-8-0-3-9);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(28.683594,-1133.4703)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,35.154071,-983.86419)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan43"><tspan
+       id="tspan105"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan42">Atheniella</tspan></tspan></text>
+         id="tspan104">Atheniella</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1486,1073.2121 v 208.4915"
+     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1284.0459,907.21976 V 1085.8929"
      id="path287-9-5-5-6-5" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-0-1-8-0-0"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-8-0-3-9-4);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(27.441406,-882.21938)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,34.08954,-768.54703)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan45"><tspan
+       id="tspan107"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan44">Phloeomana</tspan></tspan></text>
+         id="tspan106">Phloeomana</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1486,615.87413 v 45.1156"
+     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1284.0459,515.29001 V 553.9532"
      id="path287-9-5-5-6-8-0" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-0-1-8-1"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-8-0-3-2);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(27.429688,-1429.3711)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,34.079498,-1237.4454)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan47"><tspan
+       id="tspan109"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan46">Megacolybia</tspan></tspan></text>
+         id="tspan108">Megacolybia</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1486,534.18621 v 72.34491"
+     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1284.0459,445.28505 v 61.99818"
      id="path287-9-5-5-6-8-0-2" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-0-1-8-1-0"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-8-0-3-2-4);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(26.515625,-1491.9264)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,33.296163,-1291.0541)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan49"><tspan
+       id="tspan111"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan48">Clitocybula</tspan></tspan></text>
+         id="tspan110">Clitocybula</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1486,377.16035 V 529.59146"
+     style="fill:#a0892c;stroke:#2c2ca0;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1284.0459,310.71693 V 441.34744"
      id="path287-9-5-5-6-8-7" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-0-1-8-17"
      style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-8-0-3-6);display:inline;fill:#2c2ca0;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(27.441406,-1604.016)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,34.08954,-1387.1127)"><tspan
        x="1466.7031"
        y="2069.3991"
-       id="tspan51"><tspan
+       id="tspan113"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan50">Porotheleum</tspan></tspan></text>
+         id="tspan112">Porotheleum</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,2991.7535 v 42.8911"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,2551.3725 v 36.7568"
      id="path287-9-8" />
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,2893.5678 v 89.8162"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1255.7656,2467.2292 V 2544.2"
      id="path287-9-2-2" />
   <text
      xml:space="preserve"
      id="text287-5-4-66"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-8);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.5989594,877.6513)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.514007,739.62796)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan53"><tspan
+       id="tspan115"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan52">Luculentae</tspan></tspan></text>
+         id="tspan114">Luculentae</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287-5"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(3.7135416,949.39383)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,13.755221,801.10991)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan55"><tspan
+       id="tspan117"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan54">Cinerellae</tspan></tspan></text>
+         id="tspan116">Cinerellae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,3185.4931 v 127.8203"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,2717.4035 v 109.5396"
      id="path287-4" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.5052083,1179.101)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.433664,997.96451)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan57"><tspan
+       id="tspan119"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan56">Fragilipides</tspan></tspan></text>
+         id="tspan118">Fragilipides</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,3320.3983 v 207.355"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,2833.0147 v 177.6992"
      id="path287-6" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.6302083,1349.5316)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.540787,1144.0202)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan59"><tspan
+       id="tspan121"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan58">sect. Mycena</tspan></tspan></text>
+         id="tspan120">sect. Mycena</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text287"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.5677095,1566.2807)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.487226,1329.77)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan61"><tspan
+       id="tspan123"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan60">Hygrocyboideae</tspan></tspan></text>
+         id="tspan122">Hygrocyboideae</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,3540.6449 v 178.6759"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,3021.7617 v 153.1218"
      id="path287-5" />
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1453,3086.8396 v 84.0223"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.71396;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1255.7656,2632.8594 v 72.0055"
      id="path287-6-2" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-0"
      style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-1);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(4.6302094,1068.39)"><tspan
+     transform="matrix(0.85698057,0,0,0.85698057,14.540787,903.08732)"><tspan
        x="1466.7031"
        y="2066.9905"
-       id="tspan63"><tspan
+       id="tspan125"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan62">sect. Mycena</tspan></tspan></text>
+         id="tspan124">sect. Mycena</tspan></tspan></text>
 </svg>
