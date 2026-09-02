@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1650"
-   height="2000"
-   viewBox="0 0 1650 2000"
+   width="1550"
+   height="1850"
+   viewBox="0 0 1550 1850"
    id="svg208"
    sodipodi:docname="Lyophyllaceae_tree_ID_2026.svg"
    inkscape:export-filename="Lyophyllaceae_tree_ID_2026.jpg"
@@ -79,8 +79,8 @@
     <rect
        x="125.40273"
        y="2183.6431"
-       width="1602.9062"
-       height="62.03989"
+       width="1546.6484"
+       height="53.60122"
        id="rect20" />
   </defs>
   <sodipodi:namedview
@@ -92,9 +92,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.7608469"
-     inkscape:cx="812.90993"
-     inkscape:cy="547.41631"
+     inkscape:zoom="0.38042345"
+     inkscape:cx="813.56709"
+     inkscape:cy="966.02878"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -104,14 +104,14 @@
     <inkscape:page
        x="0"
        y="0"
-       width="1650"
-       height="2000"
+       width="1550"
+       height="1850"
        id="page2"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
   <g
-     transform="matrix(0.84885973,0,0,1.035848,100.16397,251.99414)"
+     transform="matrix(0.79326065,0,0,0.96800146,86.736228,239.42021)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -6718,7 +6718,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="translate(11.567767,154.87884)">
+     transform="matrix(0.93450145,0,0,0.93450145,3.9429471,148.66582)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -6790,142 +6790,143 @@
     </g>
   </g>
   <path
-     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.98501;stroke-dasharray:none"
-     d="m 1393.2776,642.25385 c 0,182.14374 0,183.84604 0,183.84604"
+     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.85499;stroke-dasharray:none"
+     d="m 1295.1528,604.11848 c 0,170.21359 0,171.80439 0,171.80439"
      id="path166" />
   <text
      xml:space="preserve"
      id="text205"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect205);display:inline;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5"
-     transform="translate(107.49541,177.20069)"><tspan
+     transform="matrix(0.93450145,0,0,0.93450145,93.587471,169.52562)"><tspan
        x="1303.8105"
        y="555.29164"
-       id="tspan12">Calocybe</tspan></text>
+       id="tspan1">Calocybe</tspan></text>
   <text
      xml:space="preserve"
      id="text206"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect206);display:inline;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5" />
   <text
      xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5"
-     x="814.3656"
-     y="86.745438"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:27.412px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.40175"
+     x="725.24359"
+     y="77.1091"
      id="text208"><tspan
        sodipodi:role="line"
        id="tspan207"
-       x="814.3656"
-       y="86.745438"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed'">Lyophyllaceae</tspan><tspan
+       x="725.24359"
+       y="77.1091"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:37.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';stroke-width:1.40175">Lyophyllaceae</tspan><tspan
        sodipodi:role="line"
-       x="814.3656"
-       y="126.1866"
-       id="tspan208">Phylogenetic tree - August, 2026.</tspan></text>
+       x="725.24359"
+       y="116.55025"
+       id="tspan208"
+       style="font-size:29.3333px;stroke-width:1.40175">Phylogenetic tree - August, 2026.</tspan></text>
   <text
      xml:space="preserve"
      id="text209"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect209);display:inline;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5" />
   <path
-     style="fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5"
-     d="m 1391.87,621.67566 c 0,-212.92063 0,-212.92063 0,-212.92063"
+     style="fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.40175"
+     d="m 1293.8374,584.88813 c 0,-198.97464 0,-198.97464 0,-198.97464"
      id="path209" />
   <path
-     style="fill:#ff0000;stroke:#a0892c;stroke-width:2.0407;stroke-dasharray:none"
-     d="m 1393.3054,397.37136 c 0,233.17831 0,235.35755 0,235.35755"
+     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.90704;stroke-dasharray:none"
+     d="m 1295.1788,375.27544 c 0,217.90546 0,219.94197 0,219.94197"
      id="path166-9" />
   <path
-     style="fill:#2d5016;stroke:#2d5016;stroke-width:2.05652;stroke-dasharray:none"
-     d="m 1393.3134,242.13621 c 0,50.94204 0,51.41812 0,51.41812"
+     style="fill:#2d5016;stroke:#2d5016;stroke-width:1.92182;stroke-dasharray:none"
+     d="m 1295.1863,230.20796 c 0,47.60541 0,48.05031 0,48.05031"
      id="path166-9-8" />
   <path
-     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.96242;stroke-dasharray:none"
-     d="m 1393.2663,304.68123 c 0,47.64038 0,48.08561 0,48.08561"
+     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.83388;stroke-dasharray:none"
+     d="m 1295.1422,288.65637 c 0,44.52001 0,44.93608 0,44.93608"
      id="path166-9-8-2" />
   <path
-     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.65004;stroke-dasharray:none"
-     d="m 1393.1101,360.84008 c 0,27.47613 0,27.73292 0,27.73292"
+     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.54196;stroke-dasharray:none"
+     d="m 1294.9963,341.1369 c 0,25.67648 0,25.91645 0,25.91645"
      id="path166-9-8-2-5" />
   <text
      xml:space="preserve"
      id="text205-7"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect205-5);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:1.5"
-     transform="translate(107.46937,-280.79931)"><tspan
+     transform="matrix(0.93450145,0,0,0.93450145,93.563131,-258.47604)"><tspan
        x="1303.8105"
        y="555.29164"
-       id="tspan13">Outgroup</tspan></text>
+       id="tspan2">Outgroup</tspan></text>
   <text
      xml:space="preserve"
      id="text205-5"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect205-1);display:inline;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5"
-     transform="translate(108.44594,-221.12483)"><tspan
+     transform="matrix(0.93450145,0,0,0.93450145,94.475741,-202.71015)"><tspan
        x="1303.8105"
        y="555.29164"
-       id="tspan14">Rhizocybe</tspan></text>
+       id="tspan3">Rhizocybe</tspan></text>
   <text
      xml:space="preserve"
      id="text205-1"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect205-7);display:inline;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5"
-     transform="translate(109.90427,-175.12483)"><tspan
+     transform="matrix(0.93450145,0,0,0.93450145,95.838551,-159.72309)"><tspan
        x="1303.8105"
        y="555.29164"
-       id="tspan15">Atractosporocybe</tspan></text>
+       id="tspan4">Atractosporocybe</tspan></text>
   <text
      xml:space="preserve"
      id="text205-2"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect205-2);display:inline;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5"
-     transform="translate(89.956767,-56.124826)"
+     transform="matrix(0.93450145,0,0,0.93450145,77.197582,-48.51741)"
      x="88.059769"
      y="0"><tspan
        x="1329.3975"
        y="555.29164"
-       id="tspan16">Lyophyllaceae
+       id="tspan5">Lyophyllaceae
 </tspan><tspan
        x="1334.9932"
        y="585.29164"
-       id="tspan17">Uncerti sedis</tspan></text>
+       id="tspan6">Uncerti sedis</tspan></text>
   <path
-     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.9479;stroke-dasharray:none"
-     d="m 1393.2591,870.91378 c 0,67.9355 0,68.57043 0,68.57043"
+     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.82032;stroke-dasharray:none"
+     d="m 1295.1355,817.80152 c 0,63.48582 0,64.07916 0,64.07916"
      id="path166-8" />
   <path
-     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.8963;stroke-dasharray:none"
-     d="m 1393.2332,831.97477 c 0,32.77729 0,33.08363 0,33.08363"
+     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.7721;stroke-dasharray:none"
+     d="m 1295.1113,781.41295 c 0,30.63043 0,30.9167 0,30.9167"
      id="path166-9-8-2-5-7" />
   <text
      xml:space="preserve"
      id="text205-8"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect205-6);display:inline;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5"
-     transform="translate(106.75323,298.87517)"><tspan
+     transform="matrix(0.93450145,0,0,0.93450145,92.893901,283.2306)"><tspan
        x="1303.8105"
        y="555.29164"
-       id="tspan18">Tricholyophyllum</tspan></text>
+       id="tspan7">Tricholyophyllum</tspan></text>
   <text
      xml:space="preserve"
      id="text205-54"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect205-27);display:inline;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5"
-     transform="translate(108.60219,350.87517)"><tspan
+     transform="matrix(0.93450145,0,0,0.93450145,94.621761,331.82468)"><tspan
        x="1303.8105"
        y="555.29164"
-       id="tspan19">Leucocybe</tspan></text>
+       id="tspan8">Leucocybe</tspan></text>
   <path
-     style="fill:#ff0000;stroke:#a0892c;stroke-width:2.01968;stroke-dasharray:none"
-     d="m 1393.2949,949.12369 c 0,976.01151 0,985.13311 0,985.13311"
+     style="fill:#ff0000;stroke:#a0892c;stroke-width:1.88739;stroke-dasharray:none"
+     d="m 1295.169,890.88879 c 0,912.08421 0,920.60831 0,920.60831"
      id="path166-2" />
   <text
      xml:space="preserve"
      id="text205-54-4"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect205-27-3);display:inline;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:1.5"
-     transform="translate(108.60219,850.42261)"><tspan
+     transform="matrix(0.93450145,0,0,0.93450145,94.621761,798.65249)"><tspan
        x="1303.8105"
        y="555.29164"
-       id="tspan20">Lyophyllum</tspan></text>
+       id="tspan9">Lyophyllum</tspan></text>
   <text
      xml:space="preserve"
      id="text20"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(-29.449172,-2039.7411)"><tspan
+     transform="matrix(0.93450145,0,0,0.93450145,-42.273391,-1902.2097)"><tspan
        x="125.40234"
        y="2200.502"
-       id="tspan21">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Lyophyllaceae, not to provide a formal taxonomy.</tspan></text>
+       id="tspan10">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Lyophyllaceae, not to provide a formal taxonomy.</tspan></text>
 </svg>
