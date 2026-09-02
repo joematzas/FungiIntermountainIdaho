@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="1700"
-   height="1400"
-   viewBox="0 0 1700 1400"
+   width="1500"
+   height="1250"
+   viewBox="0 0 1500 1250"
    id="svg141"
+   sodipodi:docname="Agaricacea_tree_ID_2026.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="Agaricacea_tree_ID_2026.jpg"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -46,8 +53,35 @@
        height="43.038414"
        id="rect287-1-6-2-9-3" />
   </defs>
+  <sodipodi:namedview
+     id="namedview141"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.66247703"
+     inkscape:cx="750.96943"
+     inkscape:cy="423.41091"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg141">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1500"
+       height="1250"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
   <g
-     transform="matrix(0.95590502,0,0,0.95590502,45.441202,268.01253)"
+     transform="matrix(0.85101541,0,0,0.85101541,9.056322,244.31387)"
      id="mainHolder"
      fill="none"
      fill-rule="nonzero"
@@ -3953,7 +3987,7 @@
          style="mix-blend-mode:normal"
          id="g112">
         <path
-           d="M 149.10155,157.9248 H 0 M 149.10155,300.84961 V 15"
+           d="M 149.10155,157.9248 H 65.219895 M 149.10155,300.84961 V 15"
            fill="none"
            fill-rule="nonzero"
            stroke="#000000"
@@ -3968,7 +4002,8 @@
            font-size="none"
            text-anchor="none"
            style="mix-blend-mode:normal"
-           id="path112" />
+           id="path112"
+           sodipodi:nodetypes="cccc" />
       </g>
     </g>
     <g
@@ -4617,7 +4652,7 @@
      font-size="none"
      text-anchor="none"
      style="mix-blend-mode:normal"
-     transform="matrix(1.3548366,0,0,1.3548366,-50.663628,148.90797)">
+     transform="matrix(1.206173,0,0,1.206173,-27.404182,138.27842)">
     <g
        fill="none"
        fill-rule="nonzero"
@@ -4694,82 +4729,82 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#225500;stroke:#225500;stroke-width:2;stroke-dasharray:none"
      x="248.18834"
      y="0"
-     transform="translate(-80.25124,26.692425)"><tspan
+     transform="matrix(0.89027193,0,0,0.89027193,-107.1136,25.203878)"><tspan
        x="852.70371"
        y="55.885477"
-       id="tspan6"><tspan
+       id="tspan2"><tspan
    style="font-size:42.6667px;fill:#a0892c;stroke:none"
-   id="tspan5">Agaricacea</tspan>
+   id="tspan1">Agaricacea</tspan>
 </tspan><tspan
        x="759.82052"
        y="97.176342"
-       id="tspan8"><tspan
+       id="tspan4"><tspan
          style="fill:#a0892c;stroke:none"
-         id="tspan7">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
+         id="tspan3">Phylogenetic tree -  August, 2026.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text20"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Italic Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect20);display:inline;fill:#2d5016;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none"
      x="1.5136719e-05"
      y="0"
-     transform="translate(15.197933,-2041.9398)"><tspan
+     transform="matrix(0.89027193,0,0,0.89027193,-30.676827,-1814.3065)"><tspan
        x="125.40234"
        y="2200.502"
-       id="tspan9">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Agaricaceae, not to provide a formal taxonomy.</tspan></text>
+       id="tspan5">The ITS tree resolves major relationships, though subgroup placement is approximate, and its purpose is to illustrate the current sequencing status of Intermountain Idaho Agaricaceae, not to provide a formal taxonomy.</tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1501,512.17332 V 1311.8558"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78054;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1304.8995,461.68336 V 1173.6182"
      id="path286-2-2-8-6" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(51.726563,-1192.719)"><tspan
+     transform="matrix(0.89027193,0,0,0.89027193,14.652002,-1056.1344)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan11"><tspan
+       id="tspan7"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan10">Agaricus</tspan></tspan></text>
+         id="tspan6">Agaricus</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1501,374.66206 V 501.03338"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78054;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1304.8995,339.26095 V 451.76579"
      id="path286-2-2-8-6-0" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-2"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-86);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(50.424478,-1627.719)"><tspan
+     transform="matrix(0.89027193,0,0,0.89027193,13.492793,-1443.4027)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan13"><tspan
+       id="tspan9"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan12">Leucocoprinus</tspan></tspan></text>
+         id="tspan8">Leucocoprinus</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#a0892c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1501,311.90861 v 47.33342"
+     style="fill:#a0892c;stroke:#a0892c;stroke-width:1.78054;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1304.8995,283.39331 v 42.13962"
      id="path286-2-2-8-6-0-0" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-3-4-2-6-1-6-5-1-2-9"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-5-8-6-8-7-2-2-9-86-6);display:inline;fill:#a0892c;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(50.333332,-1728.719)"><tspan
+     transform="matrix(0.89027193,0,0,0.89027193,13.411648,-1533.3202)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan15"><tspan
+       id="tspan11"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan14">Macropsalliota</tspan></tspan></text>
+         id="tspan10">Macropsalliota</tspan></tspan></text>
   <path
-     style="fill:#a0892c;stroke:#225500;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1501,249.17759 v 52.01074"
+     style="fill:#a0892c;stroke:#225500;stroke-width:1.78054;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1304.8995,227.54565 v 46.3037"
      id="path287-4-3" />
   <text
      xml:space="preserve"
      id="text287-5-4-6-5-1"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect287-1-6-2-9-3);display:inline;fill:#225500;stroke:none;stroke-width:2;stroke-opacity:1"
-     transform="translate(49.291664,-1788.3935)"><tspan
+     transform="matrix(0.89027193,0,0,0.89027193,12.48428,-1586.4467)"><tspan
        x="1466.7031"
        y="2071.8076"
-       id="tspan17"><tspan
+       id="tspan13"><tspan
          style="font-style:italic;font-stretch:condensed;-inkscape-font-specification:'Arial Italic Condensed'"
-         id="tspan16">Outgroup</tspan></tspan></text>
+         id="tspan12">Outgroup</tspan></tspan></text>
 </svg>
